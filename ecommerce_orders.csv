@@ -1,0 +1,506 @@
+order_id,customer_name,category,product,price,quantity,order_date,region,payment_method,rating
+1001,Bilal Ahmed,Electronics,Wireless Mouse,223.76,2,2024-08-16,Central,Credit Card,
+1002,Rabia Raza,Clothing,Denim Jacket,154.08,1,2024-07-22,South,Cash on Delivery,
+1003,Hassan Iqbal,Clothing,Leather Belt,129.67,3,2024-06-08,North,Credit Card,2.0
+1004,Rabia Ahmed,Sports,Water Bottle,243.1,6,2025-04-15,West,Credit Card,4.0
+1005,Zainab Shah,Home & Kitchen,Storage Bin,61.73,1,2024-02-16,North,Debit Card,4.0
+1006,Ahmed Chaudhry,Home & Kitchen,Non-stick Pan,114.2,2,2024-09-30,South,Bank Transfer,3.0
+1007,Sara Iqbal,Sports,Resistance Bands,206.96,1,2024-08-22,West,PayPal,4.0
+1008,Bilal Shah,Home & Kitchen,Non-stick Pan,198.35,4,2025-04-14,South,Debit Card,4.0
+1009,Imran Javed,Books,History Book,122.82,2,2024-05-21,North,Credit Card,4.0
+1010,Imran Shah,Books,History Book,23.74,4,2025-04-24,Central,Credit Card,
+1011,Mariam Raza,Sports,Water Bottle,231.74,3,2024-04-24,South,Cash on Delivery,5.0
+1012,Mariam Butt,Home & Kitchen,Storage Bin,229.78,5,2024-04-18,Central,Debit Card,4.0
+1013,Fatima Iqbal,Sports,Yoga Mat,181.69,4,2024-01-20,East,Debit Card,5.0
+1014,Bilal Malik,Electronics,Bluetooth Speaker,220.91,1,2025-06-29,West,Bank Transfer,4.0
+1015,Mariam Raza,Books,Cookbook,279.03,6,2024-07-24,East,Cash on Delivery,4.0
+1016,Faisal Hussain,Electronics,Webcam,11.21,5,2024-08-23,North,Credit Card,
+1017,Sana Hussain,Electronics,Webcam,25.9,2,2024-10-12,Central,Debit Card,
+1018,Hina Raza,Books,Programming Handbook,61.17,1,2025-03-17,West,Cash on Delivery,5.0
+1019,Zainab Hussain,Electronics,Wireless Mouse,123.77,3,2024-04-21,South,Bank Transfer,5.0
+1020,Rabia Ahmed,Books,Cookbook,262.97,1,2025-03-29,North,Bank Transfer,5.0
+1021,Kamran Khan,Clothing,Denim Jacket,124.89,4,2024-08-06,South,Cash on Delivery,5.0
+1022,Bilal Hussain,Books,Self-Help Guide,129.79,6,2025-05-13,East,Debit Card,5.0
+1023,Imran Malik,Home & Kitchen,Ceramic Mug Set,19.79,4,2025-05-29,North,Bank Transfer,4.0
+1024,Faisal Chaudhry,Electronics,Laptop Stand,124.11,5,2024-09-09,North,Bank Transfer,4.0
+1025,Zainab Shah,Sports,Water Bottle,280.74,2,2024-11-17,West,Debit Card,
+1026,Ahmed Butt,Electronics,Wireless Mouse,140.19,5,2024-04-12,South,Bank Transfer,5.0
+1027,Rabia Shah,Electronics,Laptop Stand,114.01,2,2025-03-24,Central,Bank Transfer,5.0
+1028,Usman Shah,Electronics,USB-C Cable,83.02,1,2024-06-08,Central,Debit Card,3.0
+1029,Nadia Shah,Home & Kitchen,Storage Bin,149.12,1,2024-04-04,North,Credit Card,3.0
+1030,Rabia Khan,Home & Kitchen,Non-stick Pan,223.66,5,2025-03-13,North,Credit Card,4.0
+1031,Mariam Iqbal,Sports,Jump Rope,48.69,2,2024-02-12,North,PayPal,3.0
+1032,Zainab Malik,Home & Kitchen,Storage Bin,265.82,4,2024-06-07,South,Cash on Delivery,5.0
+1033,Kamran Khan,Books,Cookbook,83.71,6,2024-04-20,West,Debit Card,3.0
+1034,Kamran Iqbal,Home & Kitchen,Non-stick Pan,70.76,6,2024-07-16,East,Credit Card,5.0
+1035,Ayesha Chaudhry,Sports,Water Bottle,282.07,1,2024-09-24,East,Credit Card,4.0
+1036,Kamran Chaudhry,Home & Kitchen,Throw Pillow,183.83,5,2024-04-28,South,,5.0
+1037,Amna Iqbal,Sports,Resistance Bands,112.45,1,2024-12-04,North,PayPal,4.0
+1038,Kamran Malik,Books,Self-Help Guide,168.55,2,2025-03-06,Central,Bank Transfer,5.0
+1039,Tariq Javed,Home & Kitchen,LED Desk Lamp,67.0,5,2024-11-25,West,Debit Card,4.0
+1040,Ahmed Hussain,Clothing,Leather Belt,30.01,5,2024-12-09,East,Debit Card,3.0
+1041,Nadia Chaudhry,Books,History Book,255.67,1,2025-04-11,South,Cash on Delivery,5.0
+1042,Imran Javed,Electronics,Bluetooth Speaker,234.63,2,2024-06-29,North,Bank Transfer,3.0
+1043,Tariq Chaudhry,Clothing,Wool Sweater,201.94,5,2024-11-20,Central,Cash on Delivery,4.0
+1044,Imran Javed,Books,Programming Handbook,81.46,2,2024-10-10,South,PayPal,5.0
+1045,Bilal Malik,Home & Kitchen,LED Desk Lamp,99.31,5,2024-03-23,South,Cash on Delivery,4.0
+1046,Hassan Raza,Books,Self-Help Guide,165.07,4,2024-03-04,West,Bank Transfer,5.0
+1047,Kamran Raza,Books,Programming Handbook,6.74,3,2024-11-01,Central,Bank Transfer,
+1048,Kamran Malik,Home & Kitchen,Throw Pillow,148.26,4,2024-12-10,West,Debit Card,
+1049,Bilal Javed,Sports,Jump Rope,200.58,1,2025-03-14,South,Credit Card,5.0
+1050,Nadia Shah,Home & Kitchen,LED Desk Lamp,229.56,4,2024-10-11,North,Cash on Delivery,5.0
+1051,Ali Hussain,Home & Kitchen,Non-stick Pan,196.79,6,2024-02-11,South,Credit Card,
+1052,Ayesha Chaudhry,Electronics,Laptop Stand,142.19,3,2025-01-12,Central,Credit Card,4.0
+1053,Hassan Ahmed,Electronics,Mechanical Keyboard,174.86,4,2025-02-10,Central,Debit Card,4.0
+1054,Hina Butt,Sports,Yoga Mat,239.89,5,2024-02-12,West,PayPal,4.0
+1055,Bilal Raza,Books,Programming Handbook,36.13,3,2025-04-15,South,Bank Transfer,
+1056,Omar Hussain,Sports,Cycling Gloves,142.14,6,2024-10-01,North,PayPal,5.0
+1057,Ayesha Javed,Sports,Cycling Gloves,104.24,4,2024-11-28,South,PayPal,5.0
+1058,Zainab Raza,Home & Kitchen,Storage Bin,7.99,2,2024-03-28,West,Bank Transfer,3.0
+1059,Zainab Raza,Books,Programming Handbook,238.92,1,2024-10-28,South,PayPal,
+1060,Hina Javed,Sports,Water Bottle,130.52,6,2024-12-04,East,PayPal,5.0
+1061,Hassan Hussain,Home & Kitchen,Ceramic Mug Set,224.15,6,2024-07-08,West,PayPal,
+1062,Hina Malik,Home & Kitchen,Ceramic Mug Set,250.63,3,2024-08-20,East,Credit Card,4.0
+1063,Fatima Khan,Electronics,Mechanical Keyboard,210.74,2,2025-05-17,Central,PayPal,5.0
+1064,Ahmed Raza,Electronics,Mechanical Keyboard,282.61,4,2024-04-26,West,Credit Card,
+1065,Fatima Butt,Clothing,Baseball Cap,284.99,1,2024-09-11,West,Bank Transfer,
+1066,Faisal Raza,Sports,Cycling Gloves,137.9,4,2024-10-31,East,Bank Transfer,
+1067,Ayesha Hussain,Electronics,Laptop Stand,189.53,3,2024-03-24,South,Bank Transfer,4.0
+1068,Mariam Javed,Sports,Cycling Gloves,90.92,2,2024-10-22,North,Debit Card,5.0
+1069,Usman Malik,Clothing,Wool Sweater,38.86,2,2024-06-01,North,Credit Card,4.0
+1070,Kamran Shah,Sports,Water Bottle,134.55,4,2024-11-07,Central,Bank Transfer,5.0
+1071,Zainab Chaudhry,Books,Self-Help Guide,183.1,1,2024-04-03,Central,Credit Card,
+1072,Ayesha Chaudhry,Clothing,Wool Sweater,158.09,4,2024-10-11,West,Cash on Delivery,4.0
+1073,Nadia Javed,Home & Kitchen,Cutting Board,35.86,2,2024-12-03,East,Cash on Delivery,4.0
+1074,Ali Butt,Home & Kitchen,LED Desk Lamp,39.2,4,2025-06-10,West,Cash on Delivery,5.0
+1075,Rabia Malik,Books,Programming Handbook,229.2,2,2024-09-30,East,Cash on Delivery,5.0
+1076,Rabia Raza,Sports,Resistance Bands,214.39,3,2024-01-15,North,Debit Card,4.0
+1077,Usman Raza,Clothing,Wool Sweater,280.13,3,2025-06-05,West,Cash on Delivery,3.0
+1078,Usman Raza,Clothing,Baseball Cap,154.93,2,2024-03-12,East,Bank Transfer,5.0
+1079,Bilal Javed,Home & Kitchen,Storage Bin,176.08,6,2025-05-16,Central,Cash on Delivery,3.0
+1080,Faisal Raza,Books,Programming Handbook,280.19,2,2024-09-01,South,Cash on Delivery,5.0
+1081,Sana Khan,Books,Programming Handbook,296.58,6,2024-06-04,South,Bank Transfer,
+1082,Bilal Raza,Books,Fiction Novel,160.16,4,2024-01-16,South,Credit Card,5.0
+1083,Omar Javed,Sports,Cycling Gloves,196.7,3,2025-01-24,Central,Credit Card,
+1084,Fatima Javed,Home & Kitchen,Non-stick Pan,225.3,4,2024-04-10,South,PayPal,5.0
+1085,Imran Raza,Home & Kitchen,LED Desk Lamp,115.58,2,2024-09-07,Central,Debit Card,4.0
+1086,Zainab Javed,Books,History Book,206.52,4,2024-05-26,East,Cash on Delivery,5.0
+1087,Tariq Iqbal,Books,Self-Help Guide,204.9,2,2024-03-16,Central,PayPal,
+1088,Fatima Hussain,Books,Self-Help Guide,63.77,4,2025-05-09,West,Bank Transfer,3.0
+1089,Usman Khan,Home & Kitchen,Ceramic Mug Set,293.49,6,2025-02-09,Central,Credit Card,
+1090,Hassan Chaudhry,Home & Kitchen,Non-stick Pan,184.08,3,2024-08-12,East,Debit Card,
+1091,Bilal Ahmed,Electronics,Mechanical Keyboard,237.64,1,2025-01-08,East,PayPal,2.0
+1092,Usman Javed,Sports,Water Bottle,161.6,3,2024-06-17,East,PayPal,4.0
+1093,Ahmed Raza,Clothing,Leather Belt,218.64,4,2025-01-09,North,PayPal,4.0
+1094,Fatima Hussain,Home & Kitchen,Storage Bin,117.4,6,2025-01-15,West,Credit Card,
+1095,Mariam Raza,Sports,Resistance Bands,196.06,6,2025-04-20,North,Debit Card,5.0
+1096,Kamran Javed,Books,Fiction Novel,33.67,5,2024-05-18,East,Bank Transfer,2.0
+1097,Usman Khan,Books,Fiction Novel,250.94,5,2025-02-21,East,Debit Card,5.0
+1098,Sara Raza,Home & Kitchen,Ceramic Mug Set,294.37,3,2025-01-02,East,Debit Card,4.0
+1099,Sara Iqbal,Electronics,Laptop Stand,194.3,5,2024-01-22,South,Debit Card,
+1100,Bilal Chaudhry,Sports,Resistance Bands,177.98,2,2024-12-02,North,PayPal,4.0
+1101,Ali Iqbal,Clothing,Cotton T-Shirt,200.01,1,2024-05-14,,Bank Transfer,3.0
+1102,Sana Javed,Clothing,Leather Belt,129.18,1,2024-03-06,East,Bank Transfer,
+1103,Mariam Javed,Sports,Yoga Mat,219.54,6,2025-06-17,North,Credit Card,5.0
+1104,Ahmed Iqbal,Electronics,Noise Cancelling Headphones,215.16,4,2024-03-16,Central,Debit Card,4.0
+1105,Mariam Javed,Sports,Jump Rope,215.09,4,2025-06-27,Central,Bank Transfer,2.0
+1106,Omar Javed,Sports,Resistance Bands,131.87,2,2025-02-27,West,Cash on Delivery,4.0
+1107,Ahmed Ahmed,Home & Kitchen,LED Desk Lamp,286.31,6,2025-04-30,North,Credit Card,2.0
+1108,Fatima Raza,Clothing,Baseball Cap,22.69,5,2024-12-03,East,Cash on Delivery,5.0
+1109,Sana Hussain,Home & Kitchen,Ceramic Mug Set,175.49,2,2024-06-07,North,PayPal,4.0
+1110,Amna Shah,Sports,Resistance Bands,243.13,5,2024-01-27,North,Debit Card,5.0
+1111,Ahmed Malik,Home & Kitchen,LED Desk Lamp,6.8,2,2025-02-14,North,Credit Card,4.0
+1112,Faisal Chaudhry,Home & Kitchen,Non-stick Pan,114.17,6,2024-11-28,North,Credit Card,4.0
+1113,Amna Javed,Electronics,Mechanical Keyboard,135.72,4,2025-05-12,West,PayPal,3.0
+1114,Imran Shah,Books,Fiction Novel,88.56,6,2025-05-13,North,Debit Card,2.0
+1115,Mariam Iqbal,Clothing,Running Shoes,283.87,2,2024-09-18,North,Credit Card,5.0
+1116,Ahmed Raza,Books,History Book,212.58,5,2024-12-28,North,Cash on Delivery,5.0
+1117,Mariam Ahmed,Home & Kitchen,Storage Bin,131.64,4,2025-03-03,West,Credit Card,3.0
+1118,Nadia Chaudhry,Books,Self-Help Guide,31.0,1,2024-09-06,West,Bank Transfer,4.0
+1119,Imran Ahmed,Home & Kitchen,Non-stick Pan,103.26,2,2024-03-19,Central,Bank Transfer,3.0
+1120,Ayesha Chaudhry,Clothing,Denim Jacket,35.33,3,2024-07-21,South,Credit Card,4.0
+1121,Omar Malik,Books,History Book,229.16,4,2024-11-26,West,Credit Card,5.0
+1122,Mariam Javed,Home & Kitchen,Storage Bin,21.57,5,2024-03-16,West,Credit Card,5.0
+1123,Tariq Chaudhry,Electronics,Power Bank,141.5,5,2024-02-12,South,PayPal,
+1124,Imran Malik,Electronics,Noise Cancelling Headphones,35.53,3,2024-03-27,North,Debit Card,5.0
+1125,Nadia Iqbal,Sports,Resistance Bands,112.35,3,2025-01-31,Central,Credit Card,
+1126,Omar Ahmed,Electronics,Power Bank,88.82,6,2024-06-02,Central,Debit Card,3.0
+1127,Rabia Raza,Books,Cookbook,180.54,1,2024-11-13,East,Debit Card,
+1128,Hina Khan,Sports,Yoga Mat,195.58,4,2025-06-04,East,PayPal,4.0
+1129,Ahmed Shah,Books,Cookbook,71.83,2,2024-06-07,North,Bank Transfer,4.0
+1130,Amna Raza,Electronics,Webcam,263.54,5,2024-05-14,South,Debit Card,4.0
+1131,Zainab Javed,Clothing,Leather Belt,134.11,4,2025-01-08,Central,PayPal,5.0
+1132,Tariq Shah,Books,Cookbook,113.51,5,2025-03-27,West,Bank Transfer,4.0
+1133,Sana Iqbal,Clothing,Baseball Cap,45.83,3,2024-02-23,Central,Credit Card,4.0
+1134,Nadia Ahmed,Clothing,Running Shoes,137.55,5,2024-05-30,South,Cash on Delivery,3.0
+1135,Hina Hussain,Books,History Book,115.32,4,2024-03-24,North,PayPal,4.0
+1136,Sana Javed,Clothing,Denim Jacket,16.3,4,2024-05-22,,Credit Card,4.0
+1137,Nadia Ahmed,Clothing,Baseball Cap,282.37,5,2025-06-24,East,Debit Card,5.0
+1138,Imran Chaudhry,Sports,Cycling Gloves,23.53,4,2024-01-17,South,Debit Card,5.0
+1139,Imran Iqbal,Clothing,Baseball Cap,127.89,6,2024-03-28,North,Bank Transfer,4.0
+1140,Kamran Iqbal,Sports,Yoga Mat,120.18,4,2024-02-14,East,Credit Card,3.0
+1141,Ayesha Javed,Electronics,Webcam,44.36,3,2024-12-12,West,Debit Card,4.0
+1142,Sara Iqbal,Books,Fiction Novel,91.57,1,2024-07-23,East,Bank Transfer,2.0
+1143,Hina Khan,Home & Kitchen,Ceramic Mug Set,227.22,2,2024-10-19,East,PayPal,4.0
+1144,Ayesha Javed,Books,Programming Handbook,268.92,4,2024-12-13,West,PayPal,4.0
+1145,Omar Ahmed,Books,Fiction Novel,132.03,2,2024-10-27,North,PayPal,
+1146,Sara Iqbal,Books,Cookbook,208.48,3,2025-04-02,Central,Cash on Delivery,5.0
+1147,Imran Malik,Electronics,Bluetooth Speaker,203.0,4,2025-01-07,North,Debit Card,
+1148,Hina Raza,Clothing,Cotton T-Shirt,74.62,6,2025-01-10,Central,Credit Card,
+1149,Imran Iqbal,Home & Kitchen,LED Desk Lamp,135.96,1,2024-05-20,West,PayPal,
+1150,Usman Shah,Electronics,USB-C Cable,152.22,4,2024-04-30,West,Debit Card,
+1151,Ayesha Javed,Books,Cookbook,41.18,1,2025-04-07,North,PayPal,
+1152,Hina Butt,Sports,Water Bottle,267.94,2,2024-06-27,South,Credit Card,3.0
+1153,Tariq Butt,Books,Fiction Novel,111.46,5,2025-01-12,South,Bank Transfer,4.0
+1154,Bilal Iqbal,Books,History Book,126.18,4,2024-03-16,North,Cash on Delivery,5.0
+1155,Imran Khan,Sports,Jump Rope,58.68,2,2025-03-19,North,Bank Transfer,4.0
+1156,Ahmed Shah,Clothing,Running Shoes,284.51,5,2024-10-17,South,Bank Transfer,5.0
+1157,Ayesha Chaudhry,Sports,Yoga Mat,153.26,2,2024-06-06,Central,PayPal,
+1158,Hassan Chaudhry,Electronics,Wireless Mouse,284.82,5,2024-09-28,West,Bank Transfer,
+1159,Zainab Raza,Sports,Water Bottle,194.36,3,2025-05-09,East,Cash on Delivery,4.0
+1160,Omar Iqbal,Books,Programming Handbook,142.01,3,2024-05-27,East,Cash on Delivery,4.0
+1161,Tariq Hussain,Electronics,Webcam,76.31,1,2024-09-30,South,Credit Card,5.0
+1162,Faisal Iqbal,Sports,Cycling Gloves,78.24,2,2024-12-01,South,Debit Card,5.0
+1163,Tariq Hussain,Home & Kitchen,Throw Pillow,11.84,4,2025-06-01,South,Bank Transfer,3.0
+1164,Nadia Malik,Sports,Cycling Gloves,89.3,1,2024-04-20,East,PayPal,2.0
+1165,Ahmed Raza,Sports,Jump Rope,62.42,5,2024-10-22,Central,Cash on Delivery,4.0
+1166,Hina Iqbal,Sports,Yoga Mat,42.96,1,2025-02-07,Central,PayPal,4.0
+1167,Sana Butt,Sports,Yoga Mat,18.36,2,2024-12-07,West,Debit Card,
+1168,Faisal Iqbal,Sports,Water Bottle,52.94,5,2024-11-02,Central,Bank Transfer,4.0
+1169,Nadia Chaudhry,Books,Fiction Novel,113.67,6,2024-04-22,East,Credit Card,
+1170,Ayesha Butt,Sports,Jump Rope,72.13,1,2025-05-06,Central,Cash on Delivery,4.0
+1171,Nadia Malik,Sports,Yoga Mat,61.28,4,2024-11-17,West,Debit Card,2.0
+1172,Rabia Iqbal,Books,Fiction Novel,213.2,5,2024-07-31,West,Bank Transfer,2.0
+1173,Amna Javed,Sports,Water Bottle,166.15,6,2024-09-27,South,Debit Card,5.0
+1174,Omar Javed,Home & Kitchen,LED Desk Lamp,212.95,6,2025-05-15,East,Bank Transfer,5.0
+1175,Bilal Shah,Sports,Cycling Gloves,269.25,4,2024-12-19,North,PayPal,4.0
+1176,Rabia Shah,Home & Kitchen,Cutting Board,146.33,2,2024-10-04,South,Credit Card,
+1177,Nadia Iqbal,Electronics,Laptop Stand,193.19,1,2024-04-12,West,,
+1178,Hassan Shah,Sports,Resistance Bands,125.04,4,2025-05-03,East,PayPal,
+1179,Ayesha Raza,Sports,Resistance Bands,162.87,6,2024-02-08,South,Credit Card,2.0
+1180,Omar Shah,Home & Kitchen,Ceramic Mug Set,7.73,5,2024-04-19,West,Bank Transfer,4.0
+1181,Ayesha Javed,Sports,Cycling Gloves,85.49,1,2024-12-04,East,Debit Card,5.0
+1182,Nadia Butt,Sports,Resistance Bands,56.77,6,2025-02-19,East,Credit Card,2.0
+1183,Usman Raza,Clothing,Wool Sweater,100.46,2,2024-01-07,South,Cash on Delivery,5.0
+1184,Sara Ahmed,Sports,Yoga Mat,82.16,3,2024-08-29,West,PayPal,4.0
+1185,Amna Hussain,Home & Kitchen,Cutting Board,39.64,3,2025-01-11,South,Debit Card,5.0
+1186,Rabia Hussain,Sports,Water Bottle,127.67,5,2025-04-27,South,Bank Transfer,4.0
+1187,Rabia Butt,Home & Kitchen,Ceramic Mug Set,275.59,1,2024-03-04,South,Bank Transfer,4.0
+1188,Ahmed Butt,Sports,Cycling Gloves,39.29,2,2025-05-15,West,Credit Card,5.0
+1189,Ali Raza,Sports,Yoga Mat,169.85,6,2024-11-11,East,Credit Card,3.0
+1190,Sana Khan,Home & Kitchen,Cutting Board,23.81,1,2024-03-11,East,Cash on Delivery,4.0
+1191,Kamran Raza,Books,Self-Help Guide,297.89,4,2025-04-04,North,Bank Transfer,4.0
+1192,Ali Khan,Clothing,Baseball Cap,120.95,2,2024-08-16,East,Cash on Delivery,
+1193,Usman Hussain,Books,Cookbook,78.02,3,2024-06-07,North,Credit Card,
+1194,Tariq Chaudhry,Electronics,Laptop Stand,65.79,1,2024-02-04,North,Debit Card,5.0
+1195,Faisal Iqbal,Clothing,Cotton T-Shirt,46.34,3,2024-08-27,Central,Bank Transfer,
+1196,Usman Khan,Clothing,Leather Belt,158.77,4,2024-11-03,Central,Bank Transfer,4.0
+1197,Imran Iqbal,Books,Fiction Novel,291.83,6,2025-01-25,West,Cash on Delivery,4.0
+1198,Bilal Javed,Sports,Cycling Gloves,76.09,2,2024-11-03,North,Bank Transfer,2.0
+1199,Ahmed Javed,Clothing,Wool Sweater,76.64,2,2024-12-04,East,Credit Card,4.0
+1200,Ahmed Hussain,Home & Kitchen,Throw Pillow,203.73,5,2024-02-10,Central,Bank Transfer,3.0
+1201,Hassan Ahmed,Home & Kitchen,LED Desk Lamp,287.32,1,2024-08-04,West,Debit Card,
+1202,Tariq Butt,Clothing,Baseball Cap,99.88,3,2025-01-24,East,PayPal,5.0
+1203,Omar Hussain,Books,Fiction Novel,241.83,6,2025-04-25,East,PayPal,2.0
+1204,Mariam Malik,Clothing,Cotton T-Shirt,81.93,5,2025-03-03,South,PayPal,3.0
+1205,Usman Javed,Books,History Book,198.11,6,2024-12-11,West,Cash on Delivery,4.0
+1206,Imran Khan,Clothing,Leather Belt,166.23,2,2024-03-01,North,Credit Card,5.0
+1207,Imran Javed,Clothing,Cotton T-Shirt,213.62,1,2024-08-11,East,Credit Card,
+1208,Ali Khan,Books,Programming Handbook,9.64,5,2025-02-25,Central,,4.0
+1209,Bilal Hussain,Books,Cookbook,36.57,1,2025-06-20,South,Bank Transfer,4.0
+1210,Faisal Hussain,Books,Fiction Novel,115.05,4,2025-04-15,South,PayPal,
+1211,Sara Khan,Electronics,Bluetooth Speaker,124.56,4,2025-05-02,South,Credit Card,5.0
+1212,Sara Hussain,Home & Kitchen,Storage Bin,293.31,1,2025-06-24,South,Bank Transfer,5.0
+1213,Omar Khan,Home & Kitchen,Storage Bin,171.24,1,2024-07-02,South,Bank Transfer,4.0
+1214,Faisal Raza,Books,Fiction Novel,93.29,5,2024-09-03,Central,PayPal,2.0
+1215,Ahmed Iqbal,Electronics,Webcam,20.84,4,2024-08-25,Central,Bank Transfer,
+1216,Zainab Iqbal,Electronics,Mechanical Keyboard,236.15,4,2025-05-17,Central,Cash on Delivery,2.0
+1217,Ahmed Ahmed,Books,Fiction Novel,232.79,3,2024-09-09,East,Debit Card,2.0
+1218,Mariam Javed,Books,Self-Help Guide,111.41,1,2024-01-06,East,PayPal,4.0
+1219,Ali Ahmed,Books,History Book,168.65,4,2024-04-15,East,Bank Transfer,4.0
+1220,Rabia Hussain,Books,Fiction Novel,91.09,4,2024-03-27,Central,Bank Transfer,4.0
+1221,Ayesha Raza,Home & Kitchen,LED Desk Lamp,84.18,2,2024-03-05,East,Cash on Delivery,5.0
+1222,Tariq Ahmed,Home & Kitchen,Non-stick Pan,217.67,4,2024-07-19,South,PayPal,5.0
+1223,Omar Raza,Sports,Cycling Gloves,242.2,3,2025-03-26,Central,Debit Card,5.0
+1224,Mariam Javed,Clothing,Wool Sweater,97.68,4,2024-11-22,Central,Debit Card,3.0
+1225,Faisal Butt,Books,Self-Help Guide,38.6,5,2024-07-23,South,Bank Transfer,5.0
+1226,Nadia Javed,Clothing,Wool Sweater,240.32,6,2024-03-11,South,PayPal,3.0
+1227,Faisal Raza,Books,Programming Handbook,26.82,5,2025-05-05,Central,Bank Transfer,2.0
+1228,Fatima Hussain,Home & Kitchen,Cutting Board,269.17,5,2024-03-28,East,Debit Card,
+1229,Ali Ahmed,Books,Self-Help Guide,289.89,4,2024-04-18,East,Debit Card,4.0
+1230,Faisal Butt,Sports,Resistance Bands,136.5,4,2025-04-19,South,PayPal,5.0
+1231,Hina Shah,Electronics,Bluetooth Speaker,250.24,6,2024-05-25,East,Cash on Delivery,3.0
+1232,Ahmed Shah,Electronics,Noise Cancelling Headphones,217.99,4,2024-11-22,North,Credit Card,5.0
+1233,Omar Butt,Clothing,Leather Belt,76.95,2,2024-06-12,West,Cash on Delivery,3.0
+1234,Amna Hussain,Clothing,Leather Belt,198.91,4,2024-01-30,West,Bank Transfer,2.0
+1235,Rabia Malik,Clothing,Running Shoes,226.94,1,2024-04-14,East,PayPal,3.0
+1236,Amna Raza,Books,History Book,289.95,3,2025-02-01,Central,Credit Card,3.0
+1237,Bilal Iqbal,Clothing,Leather Belt,213.27,3,2024-03-27,North,Debit Card,5.0
+1238,Faisal Raza,Clothing,Baseball Cap,119.6,5,2024-05-21,West,Debit Card,5.0
+1239,Ayesha Iqbal,Clothing,Baseball Cap,54.23,3,2024-05-23,West,Bank Transfer,5.0
+1240,Sana Raza,Books,Cookbook,62.56,4,2025-06-01,West,Cash on Delivery,5.0
+1241,Rabia Shah,Electronics,Laptop Stand,91.17,3,2024-08-18,South,Cash on Delivery,
+1242,Rabia Iqbal,Sports,Jump Rope,38.4,1,2024-10-01,Central,Credit Card,5.0
+1243,Usman Iqbal,Electronics,Laptop Stand,92.82,1,2025-04-05,North,Cash on Delivery,4.0
+1244,Ayesha Chaudhry,Sports,Water Bottle,259.01,5,2025-03-14,South,Debit Card,3.0
+1245,Mariam Shah,Sports,Water Bottle,181.07,2,2024-11-27,Central,PayPal,4.0
+1246,Usman Malik,Electronics,USB-C Cable,289.02,4,2024-03-01,South,Debit Card,4.0
+1247,Nadia Raza,Books,Programming Handbook,46.94,6,2024-10-02,West,Credit Card,
+1248,Tariq Javed,Books,History Book,226.19,6,2025-01-12,East,Bank Transfer,5.0
+1249,Ahmed Butt,Electronics,Noise Cancelling Headphones,192.28,6,2025-01-01,West,Debit Card,2.0
+1250,Faisal Javed,Home & Kitchen,LED Desk Lamp,104.64,5,2024-05-13,East,Credit Card,5.0
+1251,Tariq Khan,Books,Fiction Novel,41.65,2,2025-03-27,West,Debit Card,4.0
+1252,Hina Malik,Home & Kitchen,Ceramic Mug Set,198.1,3,2024-03-25,North,Cash on Delivery,
+1253,Ali Hussain,Clothing,Wool Sweater,198.37,6,2024-04-07,West,Credit Card,4.0
+1254,Nadia Malik,Books,Fiction Novel,7.38,3,2024-05-03,West,Credit Card,3.0
+1255,Kamran Malik,Electronics,Bluetooth Speaker,97.44,3,2024-05-20,South,Credit Card,4.0
+1256,Nadia Chaudhry,Clothing,Wool Sweater,108.6,2,2024-06-04,West,Debit Card,4.0
+1257,Bilal Hussain,Electronics,Power Bank,108.7,4,2024-11-18,East,Credit Card,3.0
+1258,Mariam Hussain,Sports,Water Bottle,234.8,6,2024-01-28,Central,Bank Transfer,4.0
+1259,Sana Chaudhry,Electronics,Laptop Stand,150.99,1,2024-09-03,North,Bank Transfer,5.0
+1260,Hina Butt,Clothing,Wool Sweater,258.94,5,2025-03-06,,Cash on Delivery,4.0
+1261,Imran Shah,Home & Kitchen,Non-stick Pan,16.75,1,2025-02-11,Central,Cash on Delivery,2.0
+1262,Mariam Ahmed,Sports,Jump Rope,186.73,3,2024-03-26,Central,Debit Card,4.0
+1263,Sara Hussain,Electronics,Mechanical Keyboard,211.11,6,2024-09-01,North,Cash on Delivery,4.0
+1264,Fatima Khan,Home & Kitchen,Cutting Board,223.8,6,2024-06-28,South,Credit Card,4.0
+1265,Fatima Khan,Sports,Water Bottle,54.25,2,2024-10-02,East,Cash on Delivery,5.0
+1266,Sara Javed,Sports,Yoga Mat,151.36,5,2025-01-03,Central,Debit Card,3.0
+1267,Sara Khan,Sports,Yoga Mat,72.38,5,2024-01-03,South,Credit Card,5.0
+1268,Zainab Iqbal,Clothing,Cotton T-Shirt,168.1,6,2025-03-05,South,Cash on Delivery,3.0
+1269,Zainab Butt,Home & Kitchen,Ceramic Mug Set,153.1,1,2024-07-02,North,Cash on Delivery,4.0
+1270,Hina Hussain,Home & Kitchen,LED Desk Lamp,30.48,4,2024-01-09,East,Bank Transfer,5.0
+1271,Bilal Khan,Home & Kitchen,Storage Bin,291.7,2,2024-09-08,West,Credit Card,3.0
+1272,Mariam Ahmed,Electronics,Webcam,5.43,6,2025-01-20,South,Bank Transfer,3.0
+1273,Imran Raza,Clothing,Leather Belt,87.55,1,2024-08-25,East,Cash on Delivery,4.0
+1274,Bilal Hussain,Books,Fiction Novel,179.61,1,2025-03-21,East,PayPal,3.0
+1275,Hassan Malik,Home & Kitchen,LED Desk Lamp,138.56,2,2024-03-17,Central,Credit Card,4.0
+1276,Tariq Shah,Home & Kitchen,Throw Pillow,40.62,3,2024-07-31,West,PayPal,4.0
+1277,Omar Malik,Home & Kitchen,Cutting Board,210.58,1,2024-08-08,North,Debit Card,3.0
+1278,Kamran Javed,Home & Kitchen,LED Desk Lamp,246.93,2,2024-02-01,Central,Bank Transfer,3.0
+1279,Hassan Raza,Clothing,Cotton T-Shirt,8.53,2,2024-05-13,East,Credit Card,
+1280,Bilal Ahmed,Electronics,Wireless Mouse,299.16,2,2025-03-30,East,Credit Card,5.0
+1281,Ali Raza,Sports,Cycling Gloves,247.4,4,2025-05-23,West,Debit Card,3.0
+1282,Mariam Javed,Home & Kitchen,Throw Pillow,265.61,1,2024-09-08,West,Bank Transfer,5.0
+1283,Rabia Khan,Clothing,Wool Sweater,63.84,5,2024-09-12,West,PayPal,5.0
+1284,Ali Iqbal,Sports,Jump Rope,99.87,3,2024-07-03,Central,Debit Card,5.0
+1285,Ayesha Ahmed,Electronics,Noise Cancelling Headphones,161.18,5,2024-08-26,South,Debit Card,5.0
+1286,Ayesha Malik,Electronics,Laptop Stand,174.83,4,2024-12-29,South,Bank Transfer,3.0
+1287,Faisal Hussain,Sports,Yoga Mat,212.52,3,2024-05-25,West,Bank Transfer,5.0
+1288,Sana Khan,Electronics,Laptop Stand,182.49,1,2025-06-23,East,Bank Transfer,3.0
+1289,Fatima Butt,Clothing,Running Shoes,22.57,2,2024-05-25,East,Credit Card,3.0
+1290,Ayesha Raza,Sports,Yoga Mat,104.29,3,2024-05-19,West,PayPal,4.0
+1291,Kamran Shah,Sports,Water Bottle,70.85,5,2024-06-28,East,Debit Card,4.0
+1292,Ayesha Chaudhry,Sports,Cycling Gloves,255.97,5,2024-02-03,East,Bank Transfer,3.0
+1293,Hina Iqbal,Books,Cookbook,102.69,1,2024-08-31,South,Credit Card,
+1294,Hina Shah,Books,Fiction Novel,83.24,2,2024-03-10,North,Credit Card,5.0
+1295,Rabia Raza,Clothing,Wool Sweater,150.46,4,2024-12-25,North,Cash on Delivery,
+1296,Ali Iqbal,Clothing,Wool Sweater,26.74,1,2024-10-28,East,Credit Card,4.0
+1297,Amna Chaudhry,Clothing,Leather Belt,27.13,1,2024-12-12,West,Credit Card,2.0
+1298,Hassan Raza,Books,Cookbook,20.8,3,2024-07-29,Central,Bank Transfer,5.0
+1299,Bilal Khan,Electronics,Wireless Mouse,120.91,5,2025-05-17,East,Credit Card,2.0
+1300,Ayesha Shah,Sports,Cycling Gloves,63.9,1,2024-07-30,North,Cash on Delivery,4.0
+1301,Ayesha Iqbal,Books,Self-Help Guide,31.89,5,2025-01-31,West,PayPal,4.0
+1302,Bilal Ahmed,Books,Self-Help Guide,71.74,3,2024-03-04,North,PayPal,4.0
+1303,Nadia Butt,Clothing,Baseball Cap,22.99,4,2025-06-19,West,Bank Transfer,3.0
+1304,Ayesha Hussain,Electronics,USB-C Cable,40.48,4,2024-06-26,South,Debit Card,5.0
+1305,Amna Shah,Books,Cookbook,299.19,6,2024-05-31,East,Credit Card,4.0
+1306,Nadia Ahmed,Home & Kitchen,LED Desk Lamp,158.31,1,2025-06-19,West,Debit Card,4.0
+1307,Rabia Iqbal,Electronics,Bluetooth Speaker,170.99,1,2024-10-19,West,PayPal,2.0
+1308,Amna Chaudhry,Books,Fiction Novel,55.8,4,2024-05-27,West,Credit Card,2.0
+1309,Ali Iqbal,Clothing,Cotton T-Shirt,225.0,3,2025-01-16,East,PayPal,5.0
+1310,Omar Shah,Electronics,Laptop Stand,44.64,6,2025-03-29,West,Bank Transfer,
+1311,Imran Malik,Books,Programming Handbook,229.05,3,2024-02-27,North,PayPal,4.0
+1312,Sara Hussain,Sports,Jump Rope,13.54,2,2024-07-24,North,Cash on Delivery,5.0
+1313,Fatima Khan,Home & Kitchen,LED Desk Lamp,247.93,5,2025-02-10,South,PayPal,5.0
+1314,Usman Ahmed,Books,History Book,167.64,3,2024-06-16,East,Credit Card,2.0
+1315,Usman Raza,Clothing,Denim Jacket,195.98,6,2024-07-30,,Credit Card,
+1316,Amna Shah,Clothing,Baseball Cap,241.26,2,2024-09-15,East,Cash on Delivery,2.0
+1317,Faisal Ahmed,Clothing,Wool Sweater,94.13,5,2025-02-10,North,Bank Transfer,
+1318,Sana Ahmed,Sports,Jump Rope,184.67,3,2024-04-20,East,PayPal,
+1319,Amna Raza,Home & Kitchen,Non-stick Pan,49.23,2,2024-02-28,East,Debit Card,5.0
+1320,Faisal Chaudhry,Home & Kitchen,Throw Pillow,124.36,6,2024-02-06,South,PayPal,3.0
+1321,Mariam Ahmed,Books,Self-Help Guide,154.66,2,2024-07-04,West,Debit Card,5.0
+1322,Zainab Iqbal,Clothing,Leather Belt,270.38,6,2024-04-01,South,PayPal,2.0
+1323,Sara Chaudhry,Home & Kitchen,Storage Bin,91.75,1,2025-04-26,Central,Bank Transfer,4.0
+1324,Bilal Malik,Electronics,Power Bank,161.3,4,2024-02-25,South,PayPal,2.0
+1325,Ahmed Javed,Books,Cookbook,98.33,6,2024-07-03,East,,3.0
+1326,Sana Ahmed,Home & Kitchen,Non-stick Pan,229.55,2,2024-06-11,South,Bank Transfer,2.0
+1327,Hina Khan,Books,Programming Handbook,6.38,5,2024-07-23,,,3.0
+1328,Bilal Ahmed,Clothing,Denim Jacket,209.59,3,2024-11-15,West,Bank Transfer,
+1329,Amna Butt,Electronics,Mechanical Keyboard,284.8,4,2025-06-16,East,Cash on Delivery,
+1330,Ali Hussain,Books,Self-Help Guide,226.28,2,2025-02-17,South,Debit Card,3.0
+1331,Kamran Shah,Clothing,Cotton T-Shirt,113.14,6,2024-02-08,Central,Bank Transfer,5.0
+1332,Tariq Raza,Electronics,Wireless Mouse,19.23,1,2025-03-02,North,Bank Transfer,5.0
+1333,Usman Chaudhry,Electronics,Mechanical Keyboard,129.16,1,2025-06-16,Central,Debit Card,2.0
+1334,Hassan Chaudhry,Sports,Yoga Mat,88.4,1,2025-05-24,South,PayPal,4.0
+1335,Hassan Javed,Books,Self-Help Guide,52.31,5,2025-05-23,,Debit Card,5.0
+1336,Ahmed Ahmed,Electronics,Noise Cancelling Headphones,49.0,1,2025-06-07,East,Debit Card,5.0
+1337,Mariam Iqbal,Books,Fiction Novel,34.44,2,2024-02-10,East,Cash on Delivery,4.0
+1338,Omar Iqbal,Electronics,Wireless Mouse,256.34,6,2024-06-23,West,Bank Transfer,5.0
+1339,Usman Raza,Home & Kitchen,Non-stick Pan,38.58,4,2025-04-12,West,Cash on Delivery,
+1340,Nadia Chaudhry,Clothing,Leather Belt,219.29,2,2024-04-16,West,Bank Transfer,
+1341,Sana Javed,Home & Kitchen,Storage Bin,13.5,6,2024-05-13,North,Cash on Delivery,5.0
+1342,Faisal Chaudhry,Home & Kitchen,Ceramic Mug Set,212.85,6,2025-06-21,South,PayPal,4.0
+1343,Hina Raza,Electronics,Power Bank,200.21,2,2025-05-08,South,Bank Transfer,
+1344,Ahmed Javed,Clothing,Baseball Cap,255.41,4,2024-06-18,East,Debit Card,3.0
+1345,Ahmed Javed,Clothing,Baseball Cap,194.78,4,2024-08-28,West,Bank Transfer,5.0
+1346,Fatima Raza,Home & Kitchen,Ceramic Mug Set,294.3,6,2024-01-19,West,Credit Card,4.0
+1347,Tariq Iqbal,Sports,Jump Rope,193.07,5,2024-07-30,East,Credit Card,3.0
+1348,Tariq Ahmed,Sports,Jump Rope,144.57,6,2025-01-07,North,Debit Card,5.0
+1349,Sara Malik,Home & Kitchen,Storage Bin,158.99,6,2024-04-18,West,Debit Card,2.0
+1350,Tariq Hussain,Clothing,Cotton T-Shirt,279.41,4,2024-08-08,East,Credit Card,2.0
+1351,Faisal Butt,Sports,Yoga Mat,232.78,4,2025-04-13,South,Cash on Delivery,5.0
+1352,Faisal Malik,Books,History Book,147.46,5,2024-06-30,South,Credit Card,2.0
+1353,Usman Raza,Home & Kitchen,Storage Bin,265.01,4,2024-09-11,East,PayPal,5.0
+1354,Rabia Hussain,Sports,Jump Rope,93.18,6,2024-11-17,South,Debit Card,
+1355,Rabia Iqbal,Clothing,Leather Belt,196.78,2,2025-05-30,North,PayPal,4.0
+1356,Imran Ahmed,Books,History Book,89.35,4,2024-01-14,North,Cash on Delivery,4.0
+1357,Bilal Khan,Home & Kitchen,Non-stick Pan,295.14,6,2024-09-13,East,Debit Card,4.0
+1358,Zainab Butt,Electronics,Laptop Stand,224.01,5,2025-02-02,East,Credit Card,2.0
+1359,Hassan Chaudhry,Home & Kitchen,Storage Bin,20.87,6,2024-09-14,West,Debit Card,
+1360,Mariam Javed,Sports,Jump Rope,222.84,2,2024-07-17,South,Credit Card,4.0
+1361,Bilal Malik,Electronics,Power Bank,16.99,3,2024-09-27,Central,PayPal,5.0
+1362,Amna Shah,Clothing,Cotton T-Shirt,50.34,3,2024-02-22,West,Bank Transfer,4.0
+1363,Ahmed Butt,Home & Kitchen,Storage Bin,69.89,2,2025-06-17,South,Cash on Delivery,4.0
+1364,Mariam Hussain,Clothing,Denim Jacket,200.68,3,2025-01-04,Central,Bank Transfer,5.0
+1365,Amna Chaudhry,Electronics,Bluetooth Speaker,202.34,4,2024-09-03,South,Credit Card,
+1366,Ali Butt,Electronics,Power Bank,80.69,6,2024-10-16,East,Bank Transfer,4.0
+1367,Rabia Butt,Clothing,Running Shoes,156.6,1,2024-06-20,North,Credit Card,3.0
+1368,Ahmed Malik,Books,Fiction Novel,65.65,6,2025-03-21,North,Cash on Delivery,3.0
+1369,Usman Raza,Clothing,Running Shoes,169.63,5,2024-08-21,West,Cash on Delivery,
+1370,Faisal Khan,Books,Fiction Novel,162.78,6,2024-03-05,North,PayPal,4.0
+1371,Kamran Khan,Home & Kitchen,Storage Bin,30.52,4,2025-01-25,West,Debit Card,4.0
+1372,Hina Khan,Sports,Water Bottle,288.24,2,2024-11-01,Central,,4.0
+1373,Hassan Iqbal,Sports,Cycling Gloves,163.46,1,2024-11-08,South,Cash on Delivery,
+1374,Fatima Malik,Clothing,Denim Jacket,186.98,3,2024-07-17,Central,Credit Card,4.0
+1375,Faisal Javed,Home & Kitchen,Cutting Board,24.87,1,2024-07-21,East,PayPal,4.0
+1376,Sana Javed,Home & Kitchen,Storage Bin,25.59,2,2024-11-21,East,Bank Transfer,
+1377,Ayesha Khan,Sports,Jump Rope,112.53,3,2025-03-14,East,Debit Card,3.0
+1378,Sana Javed,Home & Kitchen,LED Desk Lamp,44.62,6,2024-12-05,West,PayPal,5.0
+1379,Usman Ahmed,Sports,Yoga Mat,253.33,2,2024-07-20,North,Credit Card,4.0
+1380,Rabia Shah,Sports,Cycling Gloves,231.91,2,2024-02-07,Central,Bank Transfer,5.0
+1381,Bilal Javed,Books,Cookbook,267.97,5,2024-10-24,Central,Bank Transfer,4.0
+1382,Tariq Malik,Clothing,Baseball Cap,206.83,5,2024-05-23,South,Bank Transfer,
+1383,Ahmed Shah,Books,Self-Help Guide,16.92,4,2024-08-25,East,Debit Card,5.0
+1384,Sara Iqbal,Home & Kitchen,Throw Pillow,143.55,4,2024-02-17,North,Bank Transfer,
+1385,Kamran Iqbal,Home & Kitchen,Storage Bin,165.58,2,2025-01-20,Central,Credit Card,4.0
+1386,Sana Chaudhry,Clothing,Baseball Cap,124.72,3,2025-05-13,North,Bank Transfer,4.0
+1387,Hina Chaudhry,Sports,Water Bottle,67.4,2,2024-06-10,North,Debit Card,2.0
+1388,Nadia Khan,Books,Programming Handbook,146.31,5,2024-06-14,South,Credit Card,4.0
+1389,Ayesha Shah,Sports,Yoga Mat,267.79,2,2024-02-27,South,Bank Transfer,2.0
+1390,Amna Javed,Electronics,Mechanical Keyboard,284.44,2,2025-04-04,West,Debit Card,3.0
+1391,Ayesha Iqbal,Sports,Resistance Bands,188.85,5,2024-09-27,West,Bank Transfer,
+1392,Nadia Malik,Clothing,Cotton T-Shirt,9.89,5,2025-05-31,Central,Credit Card,4.0
+1393,Amna Butt,Electronics,Bluetooth Speaker,32.49,6,2024-05-13,North,Cash on Delivery,4.0
+1394,Hina Chaudhry,Sports,Cycling Gloves,72.7,4,2025-01-25,Central,Credit Card,2.0
+1395,Usman Hussain,Clothing,Cotton T-Shirt,88.56,5,2025-02-22,North,Credit Card,
+1396,Hina Ahmed,Books,Cookbook,207.89,3,2025-02-22,South,Cash on Delivery,
+1397,Kamran Hussain,Sports,Cycling Gloves,171.58,5,2024-10-09,West,Bank Transfer,4.0
+1398,Kamran Malik,Sports,Cycling Gloves,79.86,3,2024-12-18,North,Debit Card,5.0
+1399,Ayesha Raza,Electronics,Laptop Stand,154.96,3,2024-02-23,North,Credit Card,4.0
+1400,Amna Khan,Electronics,Bluetooth Speaker,82.61,3,2024-03-22,West,Cash on Delivery,
+1401,Tariq Khan,Sports,Yoga Mat,283.99,2,2025-05-21,South,Bank Transfer,5.0
+1402,Sara Iqbal,Sports,Jump Rope,211.04,5,2024-06-22,South,Credit Card,4.0
+1403,Imran Khan,Books,Self-Help Guide,202.55,4,2024-07-24,North,Credit Card,4.0
+1404,Amna Hussain,Sports,Water Bottle,107.51,3,2024-08-19,,Cash on Delivery,
+1405,Omar Ahmed,Sports,Yoga Mat,169.8,5,2024-10-28,Central,PayPal,4.0
+1406,Tariq Javed,Books,Programming Handbook,171.13,2,2024-12-13,Central,Credit Card,5.0
+1407,Hina Butt,Clothing,Leather Belt,211.85,3,2025-02-26,Central,Credit Card,5.0
+1408,Omar Iqbal,Home & Kitchen,Ceramic Mug Set,168.59,2,2025-05-02,South,Bank Transfer,5.0
+1409,Usman Hussain,Clothing,Wool Sweater,222.45,2,2024-09-04,South,Debit Card,3.0
+1410,Amna Khan,Electronics,Bluetooth Speaker,276.46,6,2025-05-19,Central,Credit Card,5.0
+1411,Kamran Hussain,Sports,Water Bottle,149.79,5,2024-10-13,Central,Debit Card,5.0
+1412,Tariq Ahmed,Sports,Yoga Mat,153.23,4,2024-06-27,Central,,3.0
+1413,Amna Shah,Clothing,Wool Sweater,176.4,3,2025-01-05,South,Bank Transfer,5.0
+1414,Hassan Raza,Sports,Water Bottle,112.95,4,2025-03-10,East,PayPal,2.0
+1415,Zainab Butt,Clothing,Baseball Cap,207.37,1,2024-10-03,West,Cash on Delivery,3.0
+1416,Sana Malik,Clothing,Wool Sweater,242.67,2,2025-03-07,Central,Bank Transfer,3.0
+1417,Sara Hussain,Sports,Jump Rope,19.07,1,2024-06-16,East,Cash on Delivery,
+1418,Hina Khan,Home & Kitchen,LED Desk Lamp,111.29,5,2024-09-20,West,Credit Card,3.0
+1419,Mariam Iqbal,Clothing,Baseball Cap,174.89,6,2024-06-27,East,Bank Transfer,5.0
+1420,Ayesha Iqbal,Electronics,Power Bank,186.03,4,2024-05-28,West,Bank Transfer,
+1421,Mariam Shah,Electronics,USB-C Cable,106.37,3,2024-11-20,Central,Cash on Delivery,5.0
+1422,Ayesha Malik,Home & Kitchen,Cutting Board,178.14,4,2025-02-27,North,Debit Card,3.0
+1423,Ahmed Javed,Electronics,Laptop Stand,54.24,1,2024-04-07,Central,Credit Card,5.0
+1424,Kamran Shah,Electronics,Bluetooth Speaker,82.42,2,2024-03-27,South,Debit Card,5.0
+1425,Omar Javed,Sports,Resistance Bands,13.43,6,2024-12-31,West,Bank Transfer,5.0
+1426,Imran Butt,Sports,Resistance Bands,179.3,4,2025-03-21,East,PayPal,5.0
+1427,Mariam Khan,Books,Self-Help Guide,112.91,3,2024-06-08,North,Bank Transfer,4.0
+1428,Ali Raza,Electronics,Noise Cancelling Headphones,284.35,4,2024-11-02,East,Bank Transfer,3.0
+1429,Zainab Malik,Clothing,Wool Sweater,265.24,4,2025-02-08,West,Cash on Delivery,3.0
+1430,Mariam Butt,Clothing,Baseball Cap,230.54,5,2024-10-05,East,Cash on Delivery,3.0
+1431,Usman Chaudhry,Home & Kitchen,Ceramic Mug Set,192.88,5,2025-04-08,,Debit Card,3.0
+1432,Usman Malik,Sports,Yoga Mat,59.85,1,2024-10-15,West,,3.0
+1433,Tariq Khan,Clothing,Running Shoes,128.97,4,2025-01-15,East,Credit Card,4.0
+1434,Ali Ahmed,Electronics,Noise Cancelling Headphones,58.57,3,2025-01-25,South,Cash on Delivery,5.0
+1435,Hassan Javed,Clothing,Wool Sweater,221.92,1,2025-06-17,West,PayPal,3.0
+1436,Hassan Iqbal,Sports,Jump Rope,41.03,4,2024-11-01,North,Debit Card,4.0
+1437,Kamran Hussain,Electronics,USB-C Cable,239.35,5,2024-05-02,North,Credit Card,
+1438,Ayesha Javed,Sports,Resistance Bands,114.56,1,2024-09-11,North,Bank Transfer,3.0
+1439,Bilal Javed,Electronics,Wireless Mouse,109.88,2,2024-04-19,South,PayPal,4.0
+1440,Bilal Shah,Books,Cookbook,11.3,4,2025-01-01,North,Cash on Delivery,5.0
+1441,Omar Javed,Books,Cookbook,172.18,5,2024-12-22,East,Bank Transfer,4.0
+1442,Tariq Khan,Books,Self-Help Guide,246.73,5,2025-01-10,Central,Cash on Delivery,4.0
+1443,Rabia Raza,Home & Kitchen,Storage Bin,75.44,6,2024-03-05,South,Bank Transfer,
+1444,Fatima Ahmed,Sports,Water Bottle,100.17,6,2024-11-25,Central,Credit Card,5.0
+1445,Sara Chaudhry,Electronics,Laptop Stand,36.58,2,2024-04-11,West,Cash on Delivery,4.0
+1446,Ali Hussain,Electronics,Webcam,70.11,6,2024-03-13,West,Credit Card,5.0
+1447,Amna Shah,Sports,Cycling Gloves,247.5,6,2024-02-29,Central,Credit Card,4.0
+1448,Rabia Raza,Clothing,Baseball Cap,33.65,6,2024-08-24,South,Debit Card,4.0
+1449,Faisal Iqbal,Clothing,Baseball Cap,226.01,4,2024-04-18,West,Cash on Delivery,4.0
+1450,Hina Iqbal,Books,History Book,104.57,2,2025-03-29,Central,PayPal,3.0
+1451,Kamran Butt,Home & Kitchen,Storage Bin,76.01,5,2024-08-07,East,PayPal,5.0
+1452,Mariam Khan,Electronics,Mechanical Keyboard,180.75,5,2024-05-18,East,Debit Card,3.0
+1453,Fatima Khan,Home & Kitchen,Storage Bin,155.83,5,2024-06-07,West,PayPal,4.0
+1454,Faisal Raza,Sports,Resistance Bands,73.73,3,2024-04-04,Central,Debit Card,4.0
+1455,Amna Shah,Clothing,Wool Sweater,248.58,6,2024-04-07,North,Bank Transfer,2.0
+1456,Fatima Hussain,Home & Kitchen,LED Desk Lamp,264.54,4,2025-03-02,Central,Credit Card,
+1457,Omar Butt,Home & Kitchen,Storage Bin,17.15,5,2024-06-02,South,Debit Card,5.0
+1458,Nadia Shah,Books,History Book,174.7,1,2024-08-15,West,Debit Card,4.0
+1459,Nadia Malik,Electronics,Power Bank,82.45,4,2025-05-28,South,Cash on Delivery,4.0
+1460,Zainab Hussain,Sports,Resistance Bands,170.54,6,2025-06-20,North,PayPal,2.0
+1461,Hina Hussain,Electronics,Bluetooth Speaker,203.17,4,2025-01-09,East,PayPal,
+1462,Tariq Khan,Clothing,Running Shoes,186.79,4,2024-05-29,South,Debit Card,
+1463,Mariam Khan,Electronics,Bluetooth Speaker,223.18,2,2024-05-31,East,Credit Card,5.0
+1464,Usman Butt,Clothing,Leather Belt,163.71,2,2025-06-19,West,Bank Transfer,4.0
+1465,Usman Malik,Books,History Book,272.28,5,2024-02-14,North,PayPal,3.0
+1466,Kamran Shah,Electronics,Noise Cancelling Headphones,198.15,1,2024-03-09,East,Credit Card,5.0
+1467,Omar Javed,Books,Cookbook,294.04,5,2024-04-11,Central,Bank Transfer,4.0
+1468,Zainab Butt,Books,History Book,278.27,1,2024-02-10,East,PayPal,5.0
+1469,Zainab Butt,Home & Kitchen,Cutting Board,108.81,6,2024-11-05,East,Credit Card,
+1470,Bilal Ahmed,Electronics,Mechanical Keyboard,71.55,3,2025-02-06,West,Bank Transfer,
+1471,Mariam Chaudhry,Clothing,Wool Sweater,75.91,2,2025-03-12,East,Cash on Delivery,4.0
+1472,Mariam Butt,Sports,Jump Rope,206.79,2,2024-05-21,South,Cash on Delivery,4.0
+1473,Ayesha Iqbal,Clothing,Running Shoes,25.01,5,2024-05-01,South,Credit Card,3.0
+1474,Bilal Hussain,Books,Self-Help Guide,135.69,6,2024-10-07,,Debit Card,4.0
+1475,Amna Hussain,Sports,Water Bottle,183.65,5,2024-08-24,South,Credit Card,3.0
+1476,Ayesha Raza,Clothing,Baseball Cap,254.61,4,2025-01-17,West,Cash on Delivery,4.0
+1477,Hassan Hussain,Books,Fiction Novel,278.0,4,2024-08-15,North,Debit Card,5.0
+1478,Sara Chaudhry,Home & Kitchen,Throw Pillow,266.84,4,2025-02-18,West,PayPal,2.0
+1479,Imran Ahmed,Sports,Jump Rope,159.94,6,2024-02-09,West,Cash on Delivery,5.0
+1480,Imran Khan,Sports,Cycling Gloves,295.23,1,2025-01-31,South,PayPal,5.0
+1481,Imran Malik,Home & Kitchen,Throw Pillow,54.11,3,2024-02-25,West,Cash on Delivery,4.0
+1482,Tariq Khan,Sports,Jump Rope,44.92,4,2024-11-27,South,Cash on Delivery,
+1483,Fatima Ahmed,Books,Fiction Novel,78.77,6,2024-06-16,North,Cash on Delivery,
+1484,Rabia Raza,Books,History Book,185.56,2,2025-01-22,North,Debit Card,3.0
+1485,Nadia Shah,Clothing,Denim Jacket,261.3,2,2024-02-22,East,Cash on Delivery,5.0
+1486,Tariq Javed,Clothing,Denim Jacket,6.04,3,2024-01-13,West,Bank Transfer,5.0
+1487,Tariq Ahmed,Clothing,Baseball Cap,199.54,4,2025-02-23,Central,Bank Transfer,5.0
+1488,Ayesha Malik,Sports,Jump Rope,246.94,2,2024-02-20,North,PayPal,5.0
+1489,Fatima Raza,Sports,Jump Rope,93.04,1,2024-02-20,South,Debit Card,
+1490,Faisal Iqbal,Sports,Jump Rope,237.26,2,2025-04-11,North,Credit Card,5.0
+1491,Sana Malik,Electronics,Power Bank,253.78,1,2024-10-26,North,PayPal,3.0
+1492,Ahmed Javed,Clothing,Baseball Cap,22.16,5,2025-06-25,Central,PayPal,2.0
+1493,Amna Chaudhry,Sports,Jump Rope,298.53,3,2024-05-12,West,Bank Transfer,
+1494,Fatima Khan,Sports,Resistance Bands,214.03,2,2024-01-02,West,Credit Card,3.0
+1495,Ali Hussain,Books,Fiction Novel,103.47,5,2024-08-05,East,PayPal,4.0
+1496,Kamran Chaudhry,Home & Kitchen,Ceramic Mug Set,38.58,3,2024-12-15,Central,Credit Card,4.0
+1497,Sana Malik,Books,Programming Handbook,240.19,6,2024-05-19,West,Bank Transfer,3.0
+1498,Rabia Butt,Electronics,Mechanical Keyboard,171.66,6,2024-11-19,North,Debit Card,
+1499,Omar Raza,Home & Kitchen,Ceramic Mug Set,291.04,3,2024-02-01,Central,Debit Card,
+1500,Usman Raza,Electronics,Mechanical Keyboard,213.05,3,2024-02-02,North,Cash on Delivery,3.0
+1305,Amna Shah,Books,Cookbook,299.19,6,2024-05-31,East,Credit Card,4.0
+1341,Sana Javed,Home & Kitchen,Storage Bin,13.5,6,2024-05-13,North,Cash on Delivery,5.0
+1048,Kamran Malik,Home & Kitchen,Throw Pillow,148.26,4,2024-12-10,West,Debit Card,
+1068,Mariam Javed,Sports,Cycling Gloves,90.92,2,2024-10-22,North,Debit Card,5.0
+1480,Imran Khan,Sports,Cycling Gloves,295.23,1,2025-01-31,South,PayPal,5.0

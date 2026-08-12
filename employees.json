@@ -1,0 +1,6001 @@
+{
+  "company": "ExampleCorp Pvt Ltd",
+  "generated_on": "2026-08-11",
+  "total_employees": 120,
+  "employees": [
+    {
+      "employee_id": "E1001",
+      "full_name": "Omar Malik",
+      "department": "Finance",
+      "email": "omar.malik1@examplecorp.com",
+      "hire_date": "2023-05-20",
+      "salary": 47747,
+      "is_active": true,
+      "address": {
+        "city": "Karachi",
+        "country": "Pakistan",
+        "postal_code": "39260"
+      },
+      "skills": [
+        "Python",
+        "Leadership",
+        "Networking",
+        "Data Analysis",
+        "UI/UX Design",
+        "Excel"
+      ],
+      "manager": null,
+      "projects": [
+        {
+          "name": "Website Revamp",
+          "role": "Lead",
+          "status": "Completed",
+          "hours_logged": 76.3
+        },
+        {
+          "name": "Website Revamp",
+          "role": "Reviewer",
+          "status": "In Progress",
+          "hours_logged": 12.3
+        },
+        {
+          "name": "API Integration",
+          "role": "Contributor",
+          "status": "Completed",
+          "hours_logged": 51.9
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.9,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2023,
+          "score": 3.7,
+          "comments": "Great initiative shown"
+        },
+        {
+          "year": 2024,
+          "score": 2.5,
+          "comments": "Great initiative shown"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1002",
+      "full_name": "Faisal Hussain",
+      "department": "HR",
+      "email": "faisal.hussain2@examplecorp.com",
+      "hire_date": "2022-10-06",
+      "salary": 101027,
+      "is_active": true,
+      "address": {
+        "city": "Rawalpindi",
+        "country": "Pakistan",
+        "postal_code": "57393"
+      },
+      "skills": [
+        "Excel",
+        "Machine Learning",
+        "JavaScript",
+        "Cloud Computing"
+      ],
+      "manager": "Ahmed Chaudhry",
+      "projects": [
+        {
+          "name": "Mobile App Launch",
+          "role": "Reviewer",
+          "status": "Completed",
+          "hours_logged": 115.1
+        },
+        {
+          "name": "Inventory System",
+          "role": "Lead",
+          "status": "Planned",
+          "hours_logged": 137.7
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.5,
+          "comments": "Needs improvement"
+        },
+        {
+          "year": 2023,
+          "score": 2.9,
+          "comments": "Exceeds expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1003",
+      "full_name": "Nadia Malik",
+      "department": "Sales",
+      "email": "nadia.malik3@examplecorp.com",
+      "hire_date": "2024-05-02",
+      "salary": 105100,
+      "is_active": true,
+      "address": {
+        "city": "Rawalpindi",
+        "country": "Pakistan",
+        "postal_code": "19012"
+      },
+      "skills": [
+        "Communication",
+        "Java"
+      ],
+      "manager": "Ahmed Khan",
+      "projects": [
+        {
+          "name": "CRM Migration",
+          "role": "Contributor",
+          "status": "Planned",
+          "hours_logged": 12.6
+        },
+        {
+          "name": "Mobile App Launch",
+          "role": "Reviewer",
+          "status": "On Hold",
+          "hours_logged": 71.3
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.9,
+          "comments": "Great initiative shown"
+        },
+        {
+          "year": 2023,
+          "score": 4.5,
+          "comments": "Needs improvement"
+        },
+        {
+          "year": 2024,
+          "score": 4.7,
+          "comments": "Needs improvement"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1004",
+      "full_name": "Ali Javed",
+      "department": "HR",
+      "email": "ali.javed4@examplecorp.com",
+      "hire_date": "2023-03-12",
+      "salary": 105078,
+      "is_active": false,
+      "address": {
+        "city": "Rawalpindi",
+        "country": "Pakistan",
+        "postal_code": "62644"
+      },
+      "skills": [
+        "Communication",
+        "JavaScript",
+        "Data Analysis",
+        "React",
+        "UI/UX Design",
+        "Machine Learning"
+      ],
+      "manager": "Kamran Hussain",
+      "projects": [
+        {
+          "name": "CRM Migration",
+          "role": "Reviewer",
+          "status": "Completed",
+          "hours_logged": 101.3
+        },
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 149.0
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2024,
+          "score": 2.7,
+          "comments": "Strong team player"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1005",
+      "full_name": "Faisal Malik",
+      "department": "Support",
+      "email": "faisal.malik5@examplecorp.com",
+      "hire_date": "2023-11-22",
+      "salary": 120949,
+      "is_active": true,
+      "address": {
+        "city": "Lahore",
+        "country": "Pakistan",
+        "postal_code": "69853"
+      },
+      "skills": [
+        "Data Analysis",
+        "UI/UX Design",
+        "Networking",
+        "Machine Learning",
+        "SQL",
+        "Java"
+      ],
+      "manager": "Sara Hussain",
+      "projects": [
+        {
+          "name": "Customer Portal",
+          "role": "Lead",
+          "status": "In Progress",
+          "hours_logged": 86.7
+        },
+        {
+          "name": "Internal Dashboard",
+          "role": "Reviewer",
+          "status": "On Hold",
+          "hours_logged": 190.9
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2023,
+          "score": 2.5,
+          "comments": "Needs improvement"
+        },
+        {
+          "year": 2024,
+          "score": 2.3,
+          "comments": "Great initiative shown"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1006",
+      "full_name": "Bilal Butt",
+      "department": "Sales",
+      "email": "bilal.butt6@examplecorp.com",
+      "hire_date": "2024-06-10",
+      "salary": 43342,
+      "is_active": false,
+      "address": {
+        "city": "Peshawar",
+        "country": "Pakistan",
+        "postal_code": "90487"
+      },
+      "skills": [
+        "JavaScript",
+        "Public Speaking",
+        "Communication",
+        "Project Management",
+        "Leadership"
+      ],
+      "manager": "Fatima Ahmed",
+      "projects": [],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 5.0,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2023,
+          "score": 2.9,
+          "comments": "Meets expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1007",
+      "full_name": "Omar Shah",
+      "department": "Engineering",
+      "email": "omar.shah7@examplecorp.com",
+      "hire_date": "2024-11-26",
+      "salary": 74224,
+      "is_active": true,
+      "address": {
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "postal_code": "56621"
+      },
+      "skills": [
+        "React",
+        "UI/UX Design",
+        "Machine Learning"
+      ],
+      "manager": "Zainab Chaudhry",
+      "projects": [
+        {
+          "name": "CRM Migration",
+          "role": "Reviewer",
+          "status": "Completed",
+          "hours_logged": 45.0
+        },
+        {
+          "name": "Marketing Automation",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 139.6
+        },
+        {
+          "name": "Website Revamp",
+          "role": "Reviewer",
+          "status": "On Hold",
+          "hours_logged": 195.8
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 5.0,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2023,
+          "score": 4.5,
+          "comments": null
+        },
+        {
+          "year": 2024,
+          "score": 2.6,
+          "comments": "Strong team player"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1008",
+      "full_name": "Hina Khan",
+      "department": "Sales",
+      "email": "hina.khan8@examplecorp.com",
+      "hire_date": "2023-08-26",
+      "salary": 73970,
+      "is_active": true,
+      "address": {
+        "city": "Quetta",
+        "country": "Pakistan",
+        "postal_code": "68619"
+      },
+      "skills": [
+        "Project Management",
+        "SQL",
+        "Excel",
+        "Networking"
+      ],
+      "manager": "Hassan Iqbal",
+      "projects": [],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.9,
+          "comments": "Great initiative shown"
+        },
+        {
+          "year": 2023,
+          "score": 3.4,
+          "comments": null
+        },
+        {
+          "year": 2024,
+          "score": 3.9,
+          "comments": null
+        }
+      ]
+    },
+    {
+      "employee_id": "E1009",
+      "full_name": "Fatima Raza",
+      "department": "Sales",
+      "email": "fatima.raza9@examplecorp.com",
+      "hire_date": "2021-06-27",
+      "salary": 144965,
+      "is_active": true,
+      "address": {
+        "city": "Faisalabad",
+        "country": "Pakistan",
+        "postal_code": "70707"
+      },
+      "skills": [
+        "Cloud Computing",
+        "SQL",
+        "UI/UX Design",
+        "JavaScript",
+        "Machine Learning"
+      ],
+      "manager": "Ali Malik",
+      "projects": [
+        {
+          "name": "Cloud Migration",
+          "role": "Lead",
+          "status": "Planned",
+          "hours_logged": 158.9
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.4,
+          "comments": null
+        },
+        {
+          "year": 2024,
+          "score": 4.9,
+          "comments": null
+        }
+      ]
+    },
+    {
+      "employee_id": "E1010",
+      "full_name": "Hina Malik",
+      "department": "Sales",
+      "email": "hina.malik10@examplecorp.com",
+      "hire_date": "2022-06-16",
+      "salary": 111349,
+      "is_active": true,
+      "address": {
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "postal_code": "17982"
+      },
+      "skills": [
+        "UI/UX Design",
+        "Java",
+        "Public Speaking",
+        "Leadership"
+      ],
+      "manager": "Imran Raza",
+      "projects": [
+        {
+          "name": "Marketing Automation",
+          "role": "Lead",
+          "status": "Completed",
+          "hours_logged": 7.8
+        },
+        {
+          "name": "Mobile App Launch",
+          "role": "Reviewer",
+          "status": "In Progress",
+          "hours_logged": 89.6
+        },
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Lead",
+          "status": "Completed",
+          "hours_logged": 54.1
+        },
+        {
+          "name": "Customer Portal",
+          "role": "Reviewer",
+          "status": "In Progress",
+          "hours_logged": 153.9
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.6,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2023,
+          "score": 3.6,
+          "comments": "Exceeds expectations"
+        },
+        {
+          "year": 2024,
+          "score": 4.3,
+          "comments": "Great initiative shown"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1011",
+      "full_name": "Ali Malik",
+      "department": "Sales",
+      "email": "ali.malik11@examplecorp.com",
+      "hire_date": "2024-10-29",
+      "salary": 107941,
+      "is_active": true,
+      "address": {
+        "city": "Rawalpindi",
+        "country": "Pakistan",
+        "postal_code": "23907"
+      },
+      "skills": [
+        "Python",
+        "Excel",
+        "Networking",
+        "Communication",
+        "UI/UX Design",
+        "SQL"
+      ],
+      "manager": "Rabia Khan",
+      "projects": [
+        {
+          "name": "CRM Migration",
+          "role": "Contributor",
+          "status": "Completed",
+          "hours_logged": 113.5
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.7,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2023,
+          "score": 4.9,
+          "comments": "Great initiative shown"
+        },
+        {
+          "year": 2024,
+          "score": 4.1,
+          "comments": "Strong team player"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1012",
+      "full_name": "Imran Butt",
+      "department": "Marketing",
+      "email": "imran.butt12@examplecorp.com",
+      "hire_date": "2023-05-28",
+      "salary": 49584,
+      "is_active": true,
+      "address": {
+        "city": "Multan",
+        "country": "Pakistan",
+        "postal_code": "26036"
+      },
+      "skills": [
+        "Cloud Computing",
+        "Public Speaking",
+        "Networking"
+      ],
+      "manager": "Usman Malik",
+      "projects": [
+        {
+          "name": "Marketing Automation",
+          "role": "Lead",
+          "status": "On Hold",
+          "hours_logged": 184.9
+        },
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 86.2
+        },
+        {
+          "name": "API Integration",
+          "role": "Contributor",
+          "status": "On Hold",
+          "hours_logged": 19.1
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.7,
+          "comments": "Exceeds expectations"
+        },
+        {
+          "year": 2023,
+          "score": 3.5,
+          "comments": null
+        },
+        {
+          "year": 2024,
+          "score": 2.5,
+          "comments": "Strong team player"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1013",
+      "full_name": "Imran Raza",
+      "department": "HR",
+      "email": "imran.raza13@examplecorp.com",
+      "hire_date": "2024-12-11",
+      "salary": 42370,
+      "is_active": true,
+      "address": {
+        "city": "Multan",
+        "country": "Pakistan",
+        "postal_code": "77143"
+      },
+      "skills": [
+        "SQL",
+        "Machine Learning"
+      ],
+      "manager": "Fatima Ahmed",
+      "projects": [
+        {
+          "name": "API Integration",
+          "role": "Lead",
+          "status": "On Hold",
+          "hours_logged": 67.1
+        },
+        {
+          "name": "Internal Dashboard",
+          "role": "Lead",
+          "status": "On Hold",
+          "hours_logged": 113.0
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.1,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2023,
+          "score": 2.4,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2024,
+          "score": 4.0,
+          "comments": "Needs improvement"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1014",
+      "full_name": "Kamran Malik",
+      "department": "Engineering",
+      "email": "kamran.malik14@examplecorp.com",
+      "hire_date": "2024-05-30",
+      "salary": 69151,
+      "is_active": false,
+      "address": {
+        "city": "Karachi",
+        "country": "Pakistan",
+        "postal_code": "69477"
+      },
+      "skills": [
+        "Project Management",
+        "React"
+      ],
+      "manager": "Usman Chaudhry",
+      "projects": [
+        {
+          "name": "Marketing Automation",
+          "role": "Reviewer",
+          "status": "Planned",
+          "hours_logged": 141.6
+        },
+        {
+          "name": "Mobile App Launch",
+          "role": "Contributor",
+          "status": "Completed",
+          "hours_logged": 160.9
+        },
+        {
+          "name": "CRM Migration",
+          "role": "Contributor",
+          "status": "Completed",
+          "hours_logged": 57.4
+        },
+        {
+          "name": "Website Revamp",
+          "role": "Reviewer",
+          "status": "Completed",
+          "hours_logged": 161.3
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2023,
+          "score": 2.7,
+          "comments": "Exceeds expectations"
+        },
+        {
+          "year": 2024,
+          "score": 2.8,
+          "comments": "Meets expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1015",
+      "full_name": "Hassan Shah",
+      "department": "Sales",
+      "email": "hassan.shah15@examplecorp.com",
+      "hire_date": "2021-03-17",
+      "salary": 42011,
+      "is_active": false,
+      "address": {
+        "city": "Peshawar",
+        "country": "Pakistan",
+        "postal_code": "77401"
+      },
+      "skills": [
+        "Excel",
+        "Java",
+        "SQL",
+        "Public Speaking",
+        "Cloud Computing"
+      ],
+      "manager": "Sana Butt",
+      "projects": [
+        {
+          "name": "Marketing Automation",
+          "role": "Lead",
+          "status": "On Hold",
+          "hours_logged": 91.9
+        },
+        {
+          "name": "CRM Migration",
+          "role": "Contributor",
+          "status": "On Hold",
+          "hours_logged": 161.7
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.2,
+          "comments": "Great initiative shown"
+        },
+        {
+          "year": 2023,
+          "score": 2.6,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2024,
+          "score": 4.5,
+          "comments": null
+        }
+      ]
+    },
+    {
+      "employee_id": "E1016",
+      "full_name": "Bilal Raza",
+      "department": "Support",
+      "email": "bilal.raza16@examplecorp.com",
+      "hire_date": "2023-02-20",
+      "salary": 106314,
+      "is_active": true,
+      "address": {
+        "city": "Multan",
+        "country": "Pakistan",
+        "postal_code": "88483"
+      },
+      "skills": [
+        "Cloud Computing",
+        "Communication",
+        "Python"
+      ],
+      "manager": "Ayesha Shah",
+      "projects": [
+        {
+          "name": "Website Revamp",
+          "role": "Lead",
+          "status": "Completed",
+          "hours_logged": 18.8
+        },
+        {
+          "name": "Customer Portal",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 15.8
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.8,
+          "comments": "Needs improvement"
+        },
+        {
+          "year": 2023,
+          "score": 3.6,
+          "comments": "Meets expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1017",
+      "full_name": "Mariam Hussain",
+      "department": "Engineering",
+      "email": "mariam.hussain17@examplecorp.com",
+      "hire_date": "2021-07-06",
+      "salary": 74625,
+      "is_active": true,
+      "address": {
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "postal_code": "62364"
+      },
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "UI/UX Design",
+        "Communication",
+        "Cloud Computing",
+        "Excel"
+      ],
+      "manager": null,
+      "projects": [
+        {
+          "name": "CRM Migration",
+          "role": "Lead",
+          "status": "On Hold",
+          "hours_logged": 79.4
+        },
+        {
+          "name": "Cloud Migration",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 53.4
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.6,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2023,
+          "score": 4.1,
+          "comments": "Great initiative shown"
+        },
+        {
+          "year": 2024,
+          "score": 3.0,
+          "comments": "Strong team player"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1018",
+      "full_name": "Bilal Shah",
+      "department": "HR",
+      "email": "bilal.shah18@examplecorp.com",
+      "hire_date": "2023-07-14",
+      "salary": 113207,
+      "is_active": false,
+      "address": {
+        "city": "Lahore",
+        "country": "Pakistan",
+        "postal_code": "92080"
+      },
+      "skills": [
+        "Public Speaking",
+        "Excel",
+        "Java",
+        "Communication",
+        "Python",
+        "Machine Learning"
+      ],
+      "manager": "Imran Butt",
+      "projects": [
+        {
+          "name": "CRM Migration",
+          "role": "Lead",
+          "status": "Planned",
+          "hours_logged": 148.1
+        },
+        {
+          "name": "Marketing Automation",
+          "role": "Lead",
+          "status": "Completed",
+          "hours_logged": 166.1
+        },
+        {
+          "name": "Inventory System",
+          "role": "Reviewer",
+          "status": "In Progress",
+          "hours_logged": 21.6
+        },
+        {
+          "name": "Website Revamp",
+          "role": "Lead",
+          "status": "On Hold",
+          "hours_logged": 192.1
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2023,
+          "score": 4.2,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2024,
+          "score": 2.2,
+          "comments": "Needs improvement"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1019",
+      "full_name": "Zainab Hussain",
+      "department": "Support",
+      "email": "zainab.hussain19@examplecorp.com",
+      "hire_date": "2022-08-12",
+      "salary": 140528,
+      "is_active": false,
+      "address": {
+        "city": "Peshawar",
+        "country": "Pakistan",
+        "postal_code": "20154"
+      },
+      "skills": [
+        "JavaScript",
+        "Project Management",
+        "Communication",
+        "Public Speaking",
+        "Machine Learning",
+        "Leadership"
+      ],
+      "manager": "Ali Javed",
+      "projects": [
+        {
+          "name": "Cloud Migration",
+          "role": "Contributor",
+          "status": "Planned",
+          "hours_logged": 20.0
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2023,
+          "score": 4.0,
+          "comments": null
+        },
+        {
+          "year": 2024,
+          "score": 3.5,
+          "comments": null
+        }
+      ]
+    },
+    {
+      "employee_id": "E1020",
+      "full_name": "Imran Shah",
+      "department": "Finance",
+      "email": "imran.shah20@examplecorp.com",
+      "hire_date": "2023-07-10",
+      "salary": 75213,
+      "is_active": true,
+      "address": {
+        "city": "Peshawar",
+        "country": "Pakistan",
+        "postal_code": "19779"
+      },
+      "skills": [
+        "SQL",
+        "JavaScript",
+        "Cloud Computing",
+        "React",
+        "Communication",
+        "Project Management"
+      ],
+      "manager": "Imran Shah",
+      "projects": [
+        {
+          "name": "Cloud Migration",
+          "role": "Contributor",
+          "status": "Completed",
+          "hours_logged": 198.7
+        },
+        {
+          "name": "Marketing Automation",
+          "role": "Lead",
+          "status": "On Hold",
+          "hours_logged": 195.7
+        },
+        {
+          "name": "Cloud Migration",
+          "role": "Lead",
+          "status": "On Hold",
+          "hours_logged": 94.5
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.1,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2023,
+          "score": 4.6,
+          "comments": "Strong team player"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1021",
+      "full_name": "Ali Javed",
+      "department": "Engineering",
+      "email": "ali.javed21@examplecorp.com",
+      "hire_date": "2022-02-05",
+      "salary": 133457,
+      "is_active": false,
+      "address": {
+        "city": "Multan",
+        "country": "Pakistan",
+        "postal_code": "43189"
+      },
+      "skills": [
+        "SQL",
+        "Data Analysis",
+        "Networking",
+        "Leadership"
+      ],
+      "manager": null,
+      "projects": [
+        {
+          "name": "API Integration",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 86.2
+        },
+        {
+          "name": "API Integration",
+          "role": "Contributor",
+          "status": "Completed",
+          "hours_logged": 168.8
+        },
+        {
+          "name": "Website Revamp",
+          "role": "Contributor",
+          "status": "On Hold",
+          "hours_logged": 168.6
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.3,
+          "comments": "Exceeds expectations"
+        },
+        {
+          "year": 2023,
+          "score": 2.2,
+          "comments": null
+        },
+        {
+          "year": 2024,
+          "score": 4.8,
+          "comments": "Meets expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1022",
+      "full_name": "Usman Raza",
+      "department": "Marketing",
+      "email": "usman.raza22@examplecorp.com",
+      "hire_date": "2024-08-12",
+      "salary": 77513,
+      "is_active": true,
+      "address": {
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "postal_code": "32382"
+      },
+      "skills": [
+        "Data Analysis",
+        "Project Management",
+        "Communication",
+        "Machine Learning",
+        "Cloud Computing"
+      ],
+      "manager": "Usman Raza",
+      "projects": [
+        {
+          "name": "Internal Dashboard",
+          "role": "Lead",
+          "status": "On Hold",
+          "hours_logged": 158.1
+        },
+        {
+          "name": "API Integration",
+          "role": "Lead",
+          "status": "Planned",
+          "hours_logged": 183.1
+        },
+        {
+          "name": "Marketing Automation",
+          "role": "Reviewer",
+          "status": "In Progress",
+          "hours_logged": 145.3
+        },
+        {
+          "name": "Website Revamp",
+          "role": "Reviewer",
+          "status": "Planned",
+          "hours_logged": 92.9
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.9,
+          "comments": "Great initiative shown"
+        },
+        {
+          "year": 2023,
+          "score": 2.4,
+          "comments": null
+        }
+      ]
+    },
+    {
+      "employee_id": "E1023",
+      "full_name": "Hassan Butt",
+      "department": "Engineering",
+      "email": "hassan.butt23@examplecorp.com",
+      "hire_date": "2022-10-16",
+      "salary": 71342,
+      "is_active": true,
+      "address": {
+        "city": "Peshawar",
+        "country": "Pakistan",
+        "postal_code": "12632"
+      },
+      "skills": [
+        "Data Analysis",
+        "UI/UX Design",
+        "Cloud Computing",
+        "React",
+        "Excel"
+      ],
+      "manager": "Omar Khan",
+      "projects": [
+        {
+          "name": "Marketing Automation",
+          "role": "Lead",
+          "status": "Planned",
+          "hours_logged": 181.7
+        },
+        {
+          "name": "Cloud Migration",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 111.8
+        },
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Lead",
+          "status": "In Progress",
+          "hours_logged": 71.7
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.7,
+          "comments": "Needs improvement"
+        },
+        {
+          "year": 2024,
+          "score": 3.9,
+          "comments": "Meets expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1024",
+      "full_name": "Ahmed Shah",
+      "department": "Sales",
+      "email": "ahmed.shah24@examplecorp.com",
+      "hire_date": "2021-02-14",
+      "salary": 56678,
+      "is_active": false,
+      "address": {
+        "city": "Rawalpindi",
+        "country": "Pakistan",
+        "postal_code": "86962"
+      },
+      "skills": [
+        "Python",
+        "SQL",
+        "Data Analysis",
+        "React",
+        "Java"
+      ],
+      "manager": "Zainab Ahmed",
+      "projects": [
+        {
+          "name": "API Integration",
+          "role": "Contributor",
+          "status": "Planned",
+          "hours_logged": 89.2
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.5,
+          "comments": null
+        },
+        {
+          "year": 2024,
+          "score": 4.1,
+          "comments": "Strong team player"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1025",
+      "full_name": "Ahmed Butt",
+      "department": "Engineering",
+      "email": "ahmed.butt25@examplecorp.com",
+      "hire_date": "2021-09-15",
+      "salary": 70484,
+      "is_active": true,
+      "address": {
+        "city": "Lahore",
+        "country": "Pakistan",
+        "postal_code": "94607"
+      },
+      "skills": [
+        "JavaScript",
+        "Public Speaking",
+        "Communication",
+        "React"
+      ],
+      "manager": "Fatima Ahmed",
+      "projects": [],
+      "performance_reviews": [
+        {
+          "year": 2023,
+          "score": 3.7,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2024,
+          "score": 4.4,
+          "comments": "Exceeds expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1026",
+      "full_name": "Ali Butt",
+      "department": "Engineering",
+      "email": "ali.butt26@examplecorp.com",
+      "hire_date": "2023-04-24",
+      "salary": 132360,
+      "is_active": true,
+      "address": {
+        "city": "Lahore",
+        "country": "Pakistan",
+        "postal_code": "12855"
+      },
+      "skills": [
+        "Java",
+        "Public Speaking",
+        "Networking"
+      ],
+      "manager": "Usman Hussain",
+      "projects": [
+        {
+          "name": "Cloud Migration",
+          "role": "Contributor",
+          "status": "On Hold",
+          "hours_logged": 130.7
+        },
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 111.7
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.8,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2023,
+          "score": 4.1,
+          "comments": null
+        },
+        {
+          "year": 2024,
+          "score": 4.0,
+          "comments": "Meets expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1027",
+      "full_name": "Ali Shah",
+      "department": "HR",
+      "email": "ali.shah27@examplecorp.com",
+      "hire_date": "2023-05-05",
+      "salary": 127201,
+      "is_active": false,
+      "address": {
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "postal_code": "61571"
+      },
+      "skills": [
+        "Excel",
+        "Python"
+      ],
+      "manager": "Bilal Raza",
+      "projects": [
+        {
+          "name": "Mobile App Launch",
+          "role": "Lead",
+          "status": "Planned",
+          "hours_logged": 194.1
+        },
+        {
+          "name": "Customer Portal",
+          "role": "Lead",
+          "status": "In Progress",
+          "hours_logged": 95.7
+        },
+        {
+          "name": "Customer Portal",
+          "role": "Contributor",
+          "status": "Completed",
+          "hours_logged": 190.6
+        },
+        {
+          "name": "Cloud Migration",
+          "role": "Reviewer",
+          "status": "In Progress",
+          "hours_logged": 179.8
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2024,
+          "score": 4.7,
+          "comments": "Needs improvement"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1028",
+      "full_name": "Fatima Ahmed",
+      "department": "Finance",
+      "email": "fatima.ahmed28@examplecorp.com",
+      "hire_date": "2023-08-16",
+      "salary": 44180,
+      "is_active": true,
+      "address": {
+        "city": "Faisalabad",
+        "country": "Pakistan",
+        "postal_code": "59005"
+      },
+      "skills": [
+        "Java",
+        "JavaScript",
+        "SQL",
+        "Python"
+      ],
+      "manager": null,
+      "projects": [
+        {
+          "name": "Internal Dashboard",
+          "role": "Lead",
+          "status": "In Progress",
+          "hours_logged": 132.2
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2023,
+          "score": 4.7,
+          "comments": "Great initiative shown"
+        },
+        {
+          "year": 2024,
+          "score": 2.6,
+          "comments": "Needs improvement"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1029",
+      "full_name": "Mariam Raza",
+      "department": "Engineering",
+      "email": "mariam.raza29@examplecorp.com",
+      "hire_date": "2024-12-15",
+      "salary": 102057,
+      "is_active": true,
+      "address": {
+        "city": "Rawalpindi",
+        "country": "Pakistan",
+        "postal_code": "35300"
+      },
+      "skills": [
+        "Project Management",
+        "Cloud Computing",
+        "Java",
+        "Python"
+      ],
+      "manager": "Zainab Raza",
+      "projects": [],
+      "performance_reviews": []
+    },
+    {
+      "employee_id": "E1030",
+      "full_name": "Sara Shah",
+      "department": "Sales",
+      "email": "sara.shah30@examplecorp.com",
+      "hire_date": "2024-06-17",
+      "salary": 45712,
+      "is_active": true,
+      "address": {
+        "city": "Quetta",
+        "country": "Pakistan",
+        "postal_code": "46127"
+      },
+      "skills": [
+        "Python",
+        "Cloud Computing",
+        "Machine Learning",
+        "Leadership"
+      ],
+      "manager": "Ahmed Khan",
+      "projects": [
+        {
+          "name": "Mobile App Launch",
+          "role": "Reviewer",
+          "status": "On Hold",
+          "hours_logged": 75.8
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.3,
+          "comments": null
+        },
+        {
+          "year": 2023,
+          "score": 4.9,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2024,
+          "score": 4.7,
+          "comments": "Strong team player"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1031",
+      "full_name": "Bilal Javed",
+      "department": "Marketing",
+      "email": "bilal.javed31@examplecorp.com",
+      "hire_date": "2024-05-28",
+      "salary": 70951,
+      "is_active": true,
+      "address": {
+        "city": "Quetta",
+        "country": "Pakistan",
+        "postal_code": "70395"
+      },
+      "skills": [
+        "Machine Learning",
+        "UI/UX Design",
+        "Leadership",
+        "SQL"
+      ],
+      "manager": "Kamran Malik",
+      "projects": [
+        {
+          "name": "Website Revamp",
+          "role": "Reviewer",
+          "status": "On Hold",
+          "hours_logged": 165.4
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.2,
+          "comments": "Exceeds expectations"
+        },
+        {
+          "year": 2023,
+          "score": 3.6,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2024,
+          "score": 4.7,
+          "comments": "Exceeds expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1032",
+      "full_name": "Usman Chaudhry",
+      "department": "Marketing",
+      "email": "usman.chaudhry32@examplecorp.com",
+      "hire_date": "2021-07-17",
+      "salary": 95189,
+      "is_active": true,
+      "address": {
+        "city": "Rawalpindi",
+        "country": "Pakistan",
+        "postal_code": "32700"
+      },
+      "skills": [
+        "JavaScript",
+        "Data Analysis",
+        "Java"
+      ],
+      "manager": "Zainab Butt",
+      "projects": [],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.0,
+          "comments": "Exceeds expectations"
+        },
+        {
+          "year": 2023,
+          "score": 2.9,
+          "comments": "Needs improvement"
+        },
+        {
+          "year": 2024,
+          "score": 3.1,
+          "comments": null
+        }
+      ]
+    },
+    {
+      "employee_id": "E1033",
+      "full_name": "Usman Hussain",
+      "department": "Marketing",
+      "email": "usman.hussain33@examplecorp.com",
+      "hire_date": "2024-08-23",
+      "salary": 145964,
+      "is_active": true,
+      "address": {
+        "city": "Rawalpindi",
+        "country": "Pakistan",
+        "postal_code": "14852"
+      },
+      "skills": [
+        "Python",
+        "Java"
+      ],
+      "manager": "Zainab Javed",
+      "projects": [
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Lead",
+          "status": "In Progress",
+          "hours_logged": 50.9
+        },
+        {
+          "name": "Customer Portal",
+          "role": "Reviewer",
+          "status": "In Progress",
+          "hours_logged": 68.6
+        },
+        {
+          "name": "API Integration",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 103.9
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.1,
+          "comments": "Needs improvement"
+        },
+        {
+          "year": 2023,
+          "score": 2.2,
+          "comments": "Great initiative shown"
+        },
+        {
+          "year": 2024,
+          "score": 3.7,
+          "comments": "Exceeds expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1034",
+      "full_name": "Hina Butt",
+      "department": "Support",
+      "email": "hina.butt34@examplecorp.com",
+      "hire_date": "2021-01-13",
+      "salary": 53864,
+      "is_active": true,
+      "address": {
+        "city": "Quetta",
+        "country": "Pakistan",
+        "postal_code": "38527"
+      },
+      "skills": [
+        "Project Management",
+        "UI/UX Design"
+      ],
+      "manager": "Hassan Shah",
+      "projects": [
+        {
+          "name": "Cloud Migration",
+          "role": "Reviewer",
+          "status": "On Hold",
+          "hours_logged": 156.1
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2023,
+          "score": 4.7,
+          "comments": "Exceeds expectations"
+        },
+        {
+          "year": 2024,
+          "score": 3.2,
+          "comments": "Needs improvement"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1035",
+      "full_name": "Ayesha Chaudhry",
+      "department": "HR",
+      "email": "ayesha.chaudhry35@examplecorp.com",
+      "hire_date": "2024-09-21",
+      "salary": 112107,
+      "is_active": true,
+      "address": {
+        "city": "Karachi",
+        "country": "Pakistan",
+        "postal_code": "95597"
+      },
+      "skills": [
+        "Data Analysis",
+        "Cloud Computing",
+        "Communication"
+      ],
+      "manager": "Mariam Shah",
+      "projects": [
+        {
+          "name": "Mobile App Launch",
+          "role": "Lead",
+          "status": "Completed",
+          "hours_logged": 160.1
+        },
+        {
+          "name": "Marketing Automation",
+          "role": "Contributor",
+          "status": "Completed",
+          "hours_logged": 84.6
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.2,
+          "comments": null
+        },
+        {
+          "year": 2023,
+          "score": 3.1,
+          "comments": "Strong team player"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1036",
+      "full_name": "Hina Hussain",
+      "department": "Marketing",
+      "email": "hina.hussain36@examplecorp.com",
+      "hire_date": "2021-09-24",
+      "salary": 41944,
+      "is_active": false,
+      "address": {
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "postal_code": "93973"
+      },
+      "skills": [
+        "SQL",
+        "Leadership",
+        "Networking",
+        "Project Management",
+        "React"
+      ],
+      "manager": "Hina Shah",
+      "projects": [
+        {
+          "name": "API Integration",
+          "role": "Lead",
+          "status": "Completed",
+          "hours_logged": 89.7
+        },
+        {
+          "name": "CRM Migration",
+          "role": "Contributor",
+          "status": "Completed",
+          "hours_logged": 165.0
+        },
+        {
+          "name": "API Integration",
+          "role": "Reviewer",
+          "status": "On Hold",
+          "hours_logged": 94.9
+        }
+      ],
+      "performance_reviews": []
+    },
+    {
+      "employee_id": "E1037",
+      "full_name": "Kamran Javed",
+      "department": "HR",
+      "email": "kamran.javed37@examplecorp.com",
+      "hire_date": "2022-10-07",
+      "salary": 46995,
+      "is_active": true,
+      "address": {
+        "city": "Faisalabad",
+        "country": "Pakistan",
+        "postal_code": "21310"
+      },
+      "skills": [
+        "Cloud Computing",
+        "Networking",
+        "JavaScript",
+        "Public Speaking",
+        "Excel",
+        "Leadership"
+      ],
+      "manager": "Hassan Javed",
+      "projects": [
+        {
+          "name": "Customer Portal",
+          "role": "Lead",
+          "status": "Completed",
+          "hours_logged": 195.2
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2023,
+          "score": 3.2,
+          "comments": "Great initiative shown"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1038",
+      "full_name": "Hina Ahmed",
+      "department": "Finance",
+      "email": "hina.ahmed38@examplecorp.com",
+      "hire_date": "2024-10-08",
+      "salary": 44997,
+      "is_active": true,
+      "address": {
+        "city": "Quetta",
+        "country": "Pakistan",
+        "postal_code": "25431"
+      },
+      "skills": [
+        "Leadership",
+        "Java",
+        "React",
+        "Public Speaking",
+        "Communication"
+      ],
+      "manager": "Mariam Chaudhry",
+      "projects": [
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Reviewer",
+          "status": "In Progress",
+          "hours_logged": 13.0
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.2,
+          "comments": "Needs improvement"
+        },
+        {
+          "year": 2023,
+          "score": 3.3,
+          "comments": "Exceeds expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1039",
+      "full_name": "Sana Javed",
+      "department": "HR",
+      "email": "sana.javed39@examplecorp.com",
+      "hire_date": "2023-03-31",
+      "salary": 54034,
+      "is_active": false,
+      "address": {
+        "city": "Quetta",
+        "country": "Pakistan",
+        "postal_code": "66439"
+      },
+      "skills": [
+        "SQL",
+        "Machine Learning",
+        "Java",
+        "React"
+      ],
+      "manager": "Sara Khan",
+      "projects": [
+        {
+          "name": "Cloud Migration",
+          "role": "Reviewer",
+          "status": "Planned",
+          "hours_logged": 168.1
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.2,
+          "comments": null
+        },
+        {
+          "year": 2023,
+          "score": 4.2,
+          "comments": "Exceeds expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1040",
+      "full_name": "Imran Raza",
+      "department": "HR",
+      "email": "imran.raza40@examplecorp.com",
+      "hire_date": "2022-08-13",
+      "salary": 146298,
+      "is_active": true,
+      "address": {
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "postal_code": "99932"
+      },
+      "skills": [
+        "SQL",
+        "Networking",
+        "Project Management"
+      ],
+      "manager": "Usman Malik",
+      "projects": [
+        {
+          "name": "Website Revamp",
+          "role": "Lead",
+          "status": "Completed",
+          "hours_logged": 42.8
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.8,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2024,
+          "score": 4.8,
+          "comments": "Meets expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1041",
+      "full_name": "Faisal Shah",
+      "department": "Engineering",
+      "email": "faisal.shah41@examplecorp.com",
+      "hire_date": "2024-07-27",
+      "salary": 87156,
+      "is_active": true,
+      "address": {
+        "city": "Rawalpindi",
+        "country": "Pakistan",
+        "postal_code": "82768"
+      },
+      "skills": [
+        "Leadership",
+        "Cloud Computing",
+        "SQL",
+        "Communication",
+        "React",
+        "Data Analysis"
+      ],
+      "manager": "Hina Shah",
+      "projects": [
+        {
+          "name": "Marketing Automation",
+          "role": "Lead",
+          "status": "On Hold",
+          "hours_logged": 77.6
+        },
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Lead",
+          "status": "Planned",
+          "hours_logged": 36.4
+        },
+        {
+          "name": "Customer Portal",
+          "role": "Reviewer",
+          "status": "On Hold",
+          "hours_logged": 179.6
+        },
+        {
+          "name": "CRM Migration",
+          "role": "Contributor",
+          "status": "Completed",
+          "hours_logged": 154.8
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.1,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2023,
+          "score": 4.3,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2024,
+          "score": 3.8,
+          "comments": "Exceeds expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1042",
+      "full_name": "Mariam Butt",
+      "department": "Support",
+      "email": "mariam.butt42@examplecorp.com",
+      "hire_date": "2023-06-05",
+      "salary": 94747,
+      "is_active": true,
+      "address": {
+        "city": "Lahore",
+        "country": "Pakistan",
+        "postal_code": "27304"
+      },
+      "skills": [
+        "Excel",
+        "Leadership",
+        "Public Speaking",
+        "Python",
+        "Cloud Computing"
+      ],
+      "manager": null,
+      "projects": [
+        {
+          "name": "Customer Portal",
+          "role": "Reviewer",
+          "status": "On Hold",
+          "hours_logged": 147.9
+        },
+        {
+          "name": "Website Revamp",
+          "role": "Lead",
+          "status": "In Progress",
+          "hours_logged": 61.7
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.9,
+          "comments": "Great initiative shown"
+        },
+        {
+          "year": 2023,
+          "score": 2.7,
+          "comments": "Great initiative shown"
+        },
+        {
+          "year": 2024,
+          "score": 2.4,
+          "comments": "Needs improvement"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1043",
+      "full_name": "Amna Javed",
+      "department": "HR",
+      "email": "amna.javed43@examplecorp.com",
+      "hire_date": "2021-07-16",
+      "salary": 48345,
+      "is_active": true,
+      "address": {
+        "city": "Multan",
+        "country": "Pakistan",
+        "postal_code": "62684"
+      },
+      "skills": [
+        "Python",
+        "UI/UX Design",
+        "Public Speaking",
+        "React"
+      ],
+      "manager": "Amna Chaudhry",
+      "projects": [
+        {
+          "name": "CRM Migration",
+          "role": "Lead",
+          "status": "In Progress",
+          "hours_logged": 143.0
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.8,
+          "comments": null
+        },
+        {
+          "year": 2023,
+          "score": 2.5,
+          "comments": "Exceeds expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1044",
+      "full_name": "Rabia Khan",
+      "department": "Marketing",
+      "email": "rabia.khan44@examplecorp.com",
+      "hire_date": "2023-11-08",
+      "salary": 80551,
+      "is_active": false,
+      "address": {
+        "city": "Lahore",
+        "country": "Pakistan",
+        "postal_code": "72642"
+      },
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Networking",
+        "Cloud Computing",
+        "Java",
+        "SQL"
+      ],
+      "manager": "Tariq Malik",
+      "projects": [
+        {
+          "name": "CRM Migration",
+          "role": "Lead",
+          "status": "In Progress",
+          "hours_logged": 16.4
+        },
+        {
+          "name": "Mobile App Launch",
+          "role": "Lead",
+          "status": "In Progress",
+          "hours_logged": 32.7
+        },
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Reviewer",
+          "status": "Planned",
+          "hours_logged": 163.6
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.3,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2023,
+          "score": 2.4,
+          "comments": null
+        },
+        {
+          "year": 2024,
+          "score": 4.8,
+          "comments": "Needs improvement"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1045",
+      "full_name": "Sara Shah",
+      "department": "Marketing",
+      "email": "sara.shah45@examplecorp.com",
+      "hire_date": "2023-02-17",
+      "salary": 122666,
+      "is_active": true,
+      "address": {
+        "city": "Rawalpindi",
+        "country": "Pakistan",
+        "postal_code": "71884"
+      },
+      "skills": [
+        "Cloud Computing",
+        "Python",
+        "Networking",
+        "Data Analysis",
+        "Excel",
+        "Leadership"
+      ],
+      "manager": "Hassan Raza",
+      "projects": [
+        {
+          "name": "API Integration",
+          "role": "Reviewer",
+          "status": "On Hold",
+          "hours_logged": 62.6
+        },
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Lead",
+          "status": "Completed",
+          "hours_logged": 38.1
+        },
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Reviewer",
+          "status": "In Progress",
+          "hours_logged": 189.2
+        },
+        {
+          "name": "Internal Dashboard",
+          "role": "Lead",
+          "status": "Planned",
+          "hours_logged": 69.1
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.2,
+          "comments": "Meets expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1046",
+      "full_name": "Fatima Chaudhry",
+      "department": "Marketing",
+      "email": "fatima.chaudhry46@examplecorp.com",
+      "hire_date": "2024-11-19",
+      "salary": 124350,
+      "is_active": true,
+      "address": {
+        "city": "Karachi",
+        "country": "Pakistan",
+        "postal_code": "16119"
+      },
+      "skills": [
+        "Networking",
+        "Leadership"
+      ],
+      "manager": "Hassan Butt",
+      "projects": [
+        {
+          "name": "Internal Dashboard",
+          "role": "Lead",
+          "status": "Completed",
+          "hours_logged": 11.0
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.2,
+          "comments": null
+        },
+        {
+          "year": 2023,
+          "score": 2.3,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2024,
+          "score": 2.1,
+          "comments": null
+        }
+      ]
+    },
+    {
+      "employee_id": "E1047",
+      "full_name": "Ahmed Shah",
+      "department": "Sales",
+      "email": "ahmed.shah47@examplecorp.com",
+      "hire_date": "2021-04-10",
+      "salary": 133816,
+      "is_active": true,
+      "address": {
+        "city": "Quetta",
+        "country": "Pakistan",
+        "postal_code": "88906"
+      },
+      "skills": [
+        "Java",
+        "Networking",
+        "Communication",
+        "Leadership",
+        "Python",
+        "Data Analysis"
+      ],
+      "manager": null,
+      "projects": [
+        {
+          "name": "Mobile App Launch",
+          "role": "Lead",
+          "status": "Completed",
+          "hours_logged": 159.4
+        },
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Contributor",
+          "status": "On Hold",
+          "hours_logged": 70.6
+        },
+        {
+          "name": "Customer Portal",
+          "role": "Lead",
+          "status": "On Hold",
+          "hours_logged": 55.1
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.3,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2023,
+          "score": 3.6,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2024,
+          "score": 4.5,
+          "comments": "Great initiative shown"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1048",
+      "full_name": "Mariam Malik",
+      "department": "Finance",
+      "email": "mariam.malik48@examplecorp.com",
+      "hire_date": "2022-12-13",
+      "salary": 149030,
+      "is_active": true,
+      "address": {
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "postal_code": "47189"
+      },
+      "skills": [
+        "Cloud Computing",
+        "Excel",
+        "Java"
+      ],
+      "manager": "Ahmed Javed",
+      "projects": [
+        {
+          "name": "Website Revamp",
+          "role": "Reviewer",
+          "status": "In Progress",
+          "hours_logged": 61.2
+        },
+        {
+          "name": "Website Revamp",
+          "role": "Lead",
+          "status": "On Hold",
+          "hours_logged": 100.7
+        },
+        {
+          "name": "Cloud Migration",
+          "role": "Reviewer",
+          "status": "In Progress",
+          "hours_logged": 193.6
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.1,
+          "comments": "Exceeds expectations"
+        },
+        {
+          "year": 2023,
+          "score": 3.1,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2024,
+          "score": 4.7,
+          "comments": null
+        }
+      ]
+    },
+    {
+      "employee_id": "E1049",
+      "full_name": "Ahmed Raza",
+      "department": "Sales",
+      "email": "ahmed.raza49@examplecorp.com",
+      "hire_date": "2022-02-27",
+      "salary": 79733,
+      "is_active": true,
+      "address": {
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "postal_code": "59716"
+      },
+      "skills": [
+        "Java",
+        "JavaScript",
+        "React"
+      ],
+      "manager": "Amna Khan",
+      "projects": [],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.0,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2023,
+          "score": 3.4,
+          "comments": "Great initiative shown"
+        },
+        {
+          "year": 2024,
+          "score": 2.5,
+          "comments": "Strong team player"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1050",
+      "full_name": "Usman Chaudhry",
+      "department": "Support",
+      "email": "usman.chaudhry50@examplecorp.com",
+      "hire_date": "2022-05-03",
+      "salary": 106545,
+      "is_active": true,
+      "address": {
+        "city": "Multan",
+        "country": "Pakistan",
+        "postal_code": "90914"
+      },
+      "skills": [
+        "Cloud Computing",
+        "JavaScript",
+        "Excel"
+      ],
+      "manager": "Amna Butt",
+      "projects": [
+        {
+          "name": "CRM Migration",
+          "role": "Contributor",
+          "status": "Planned",
+          "hours_logged": 130.3
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.7,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2023,
+          "score": 4.9,
+          "comments": "Exceeds expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1051",
+      "full_name": "Fatima Hussain",
+      "department": "HR",
+      "email": "fatima.hussain51@examplecorp.com",
+      "hire_date": "2021-03-11",
+      "salary": 41653,
+      "is_active": true,
+      "address": {
+        "city": "Faisalabad",
+        "country": "Pakistan",
+        "postal_code": "39157"
+      },
+      "skills": [
+        "Public Speaking",
+        "Communication",
+        "Java",
+        "Python",
+        "JavaScript",
+        "Networking"
+      ],
+      "manager": "Kamran Khan",
+      "projects": [
+        {
+          "name": "CRM Migration",
+          "role": "Lead",
+          "status": "On Hold",
+          "hours_logged": 148.0
+        },
+        {
+          "name": "API Integration",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 26.3
+        },
+        {
+          "name": "Mobile App Launch",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 177.6
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.7,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2023,
+          "score": 3.8,
+          "comments": null
+        },
+        {
+          "year": 2024,
+          "score": 2.7,
+          "comments": null
+        }
+      ]
+    },
+    {
+      "employee_id": "E1052",
+      "full_name": "Faisal Hussain",
+      "department": "Support",
+      "email": "faisal.hussain52@examplecorp.com",
+      "hire_date": "2024-12-05",
+      "salary": 52827,
+      "is_active": true,
+      "address": {
+        "city": "Peshawar",
+        "country": "Pakistan",
+        "postal_code": "62446"
+      },
+      "skills": [
+        "Communication",
+        "Networking",
+        "Data Analysis"
+      ],
+      "manager": "Ali Chaudhry",
+      "projects": [
+        {
+          "name": "Mobile App Launch",
+          "role": "Contributor",
+          "status": "Planned",
+          "hours_logged": 66.0
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.6,
+          "comments": null
+        },
+        {
+          "year": 2023,
+          "score": 2.5,
+          "comments": null
+        },
+        {
+          "year": 2024,
+          "score": 2.0,
+          "comments": "Strong team player"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1053",
+      "full_name": "Fatima Khan",
+      "department": "Finance",
+      "email": "fatima.khan53@examplecorp.com",
+      "hire_date": "2023-07-25",
+      "salary": 110914,
+      "is_active": true,
+      "address": {
+        "city": "Rawalpindi",
+        "country": "Pakistan",
+        "postal_code": "77133"
+      },
+      "skills": [
+        "Public Speaking",
+        "Machine Learning"
+      ],
+      "manager": "Imran Iqbal",
+      "projects": [
+        {
+          "name": "Marketing Automation",
+          "role": "Lead",
+          "status": "In Progress",
+          "hours_logged": 144.7
+        },
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Reviewer",
+          "status": "On Hold",
+          "hours_logged": 24.7
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.8,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2023,
+          "score": 2.6,
+          "comments": "Great initiative shown"
+        },
+        {
+          "year": 2024,
+          "score": 2.4,
+          "comments": "Great initiative shown"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1054",
+      "full_name": "Hina Khan",
+      "department": "Support",
+      "email": "hina.khan54@examplecorp.com",
+      "hire_date": "2022-12-23",
+      "salary": 116044,
+      "is_active": true,
+      "address": {
+        "city": "Peshawar",
+        "country": "Pakistan",
+        "postal_code": "49779"
+      },
+      "skills": [
+        "React",
+        "Excel",
+        "Machine Learning",
+        "Data Analysis",
+        "Java"
+      ],
+      "manager": "Bilal Ahmed",
+      "projects": [
+        {
+          "name": "Customer Portal",
+          "role": "Contributor",
+          "status": "Planned",
+          "hours_logged": 17.0
+        },
+        {
+          "name": "Mobile App Launch",
+          "role": "Contributor",
+          "status": "Planned",
+          "hours_logged": 127.6
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.9,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2023,
+          "score": 4.2,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2024,
+          "score": 3.9,
+          "comments": "Strong team player"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1055",
+      "full_name": "Tariq Shah",
+      "department": "Sales",
+      "email": "tariq.shah55@examplecorp.com",
+      "hire_date": "2023-09-10",
+      "salary": 103559,
+      "is_active": true,
+      "address": {
+        "city": "Karachi",
+        "country": "Pakistan",
+        "postal_code": "96411"
+      },
+      "skills": [
+        "JavaScript",
+        "Communication",
+        "Data Analysis",
+        "Python"
+      ],
+      "manager": null,
+      "projects": [
+        {
+          "name": "CRM Migration",
+          "role": "Contributor",
+          "status": "On Hold",
+          "hours_logged": 157.8
+        },
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Contributor",
+          "status": "Planned",
+          "hours_logged": 139.1
+        },
+        {
+          "name": "API Integration",
+          "role": "Reviewer",
+          "status": "In Progress",
+          "hours_logged": 98.9
+        },
+        {
+          "name": "Customer Portal",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 132.6
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.0,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2023,
+          "score": 3.0,
+          "comments": "Great initiative shown"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1056",
+      "full_name": "Ali Hussain",
+      "department": "Support",
+      "email": "ali.hussain56@examplecorp.com",
+      "hire_date": "2022-08-24",
+      "salary": 72771,
+      "is_active": true,
+      "address": {
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "postal_code": "40623"
+      },
+      "skills": [
+        "Machine Learning",
+        "Java",
+        "Project Management"
+      ],
+      "manager": "Hassan Raza",
+      "projects": [],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.5,
+          "comments": null
+        },
+        {
+          "year": 2023,
+          "score": 4.3,
+          "comments": null
+        },
+        {
+          "year": 2024,
+          "score": 3.6,
+          "comments": null
+        }
+      ]
+    },
+    {
+      "employee_id": "E1057",
+      "full_name": "Mariam Hussain",
+      "department": "HR",
+      "email": "mariam.hussain57@examplecorp.com",
+      "hire_date": "2023-10-07",
+      "salary": 113033,
+      "is_active": false,
+      "address": {
+        "city": "Rawalpindi",
+        "country": "Pakistan",
+        "postal_code": "28929"
+      },
+      "skills": [
+        "Excel",
+        "Java",
+        "JavaScript",
+        "React",
+        "Leadership"
+      ],
+      "manager": "Ali Malik",
+      "projects": [
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Reviewer",
+          "status": "Completed",
+          "hours_logged": 149.7
+        },
+        {
+          "name": "Cloud Migration",
+          "role": "Reviewer",
+          "status": "Completed",
+          "hours_logged": 113.2
+        },
+        {
+          "name": "Customer Portal",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 166.3
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.4,
+          "comments": "Great initiative shown"
+        },
+        {
+          "year": 2023,
+          "score": 2.9,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2024,
+          "score": 3.3,
+          "comments": null
+        }
+      ]
+    },
+    {
+      "employee_id": "E1058",
+      "full_name": "Ahmed Malik",
+      "department": "Marketing",
+      "email": "ahmed.malik58@examplecorp.com",
+      "hire_date": "2021-03-11",
+      "salary": 67965,
+      "is_active": true,
+      "address": {
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "postal_code": "54381"
+      },
+      "skills": [
+        "Networking",
+        "Public Speaking"
+      ],
+      "manager": "Sana Butt",
+      "projects": [
+        {
+          "name": "Website Revamp",
+          "role": "Lead",
+          "status": "Completed",
+          "hours_logged": 138.1
+        },
+        {
+          "name": "Internal Dashboard",
+          "role": "Lead",
+          "status": "Planned",
+          "hours_logged": 99.5
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.7,
+          "comments": "Needs improvement"
+        },
+        {
+          "year": 2023,
+          "score": 3.3,
+          "comments": "Great initiative shown"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1059",
+      "full_name": "Mariam Shah",
+      "department": "Support",
+      "email": "mariam.shah59@examplecorp.com",
+      "hire_date": "2023-10-06",
+      "salary": 143802,
+      "is_active": true,
+      "address": {
+        "city": "Peshawar",
+        "country": "Pakistan",
+        "postal_code": "51562"
+      },
+      "skills": [
+        "JavaScript",
+        "Leadership",
+        "Public Speaking",
+        "SQL"
+      ],
+      "manager": "Sara Raza",
+      "projects": [
+        {
+          "name": "Cloud Migration",
+          "role": "Contributor",
+          "status": "On Hold",
+          "hours_logged": 103.2
+        },
+        {
+          "name": "Customer Portal",
+          "role": "Reviewer",
+          "status": "On Hold",
+          "hours_logged": 195.1
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.7,
+          "comments": "Great initiative shown"
+        },
+        {
+          "year": 2023,
+          "score": 3.2,
+          "comments": "Exceeds expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1060",
+      "full_name": "Hassan Javed",
+      "department": "Support",
+      "email": "hassan.javed60@examplecorp.com",
+      "hire_date": "2021-01-28",
+      "salary": 88348,
+      "is_active": true,
+      "address": {
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "postal_code": "50546"
+      },
+      "skills": [
+        "Cloud Computing",
+        "Communication",
+        "Networking",
+        "JavaScript",
+        "Data Analysis",
+        "Python"
+      ],
+      "manager": "Nadia Chaudhry",
+      "projects": [
+        {
+          "name": "Website Revamp",
+          "role": "Reviewer",
+          "status": "Planned",
+          "hours_logged": 125.3
+        },
+        {
+          "name": "Inventory System",
+          "role": "Reviewer",
+          "status": "Completed",
+          "hours_logged": 46.4
+        },
+        {
+          "name": "Cloud Migration",
+          "role": "Reviewer",
+          "status": "In Progress",
+          "hours_logged": 24.8
+        },
+        {
+          "name": "CRM Migration",
+          "role": "Lead",
+          "status": "Planned",
+          "hours_logged": 156.0
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.8,
+          "comments": "Exceeds expectations"
+        },
+        {
+          "year": 2023,
+          "score": 3.6,
+          "comments": "Exceeds expectations"
+        },
+        {
+          "year": 2024,
+          "score": 3.3,
+          "comments": null
+        }
+      ]
+    },
+    {
+      "employee_id": "E1061",
+      "full_name": "Kamran Javed",
+      "department": "Engineering",
+      "email": "kamran.javed61@examplecorp.com",
+      "hire_date": "2024-10-24",
+      "salary": 90743,
+      "is_active": true,
+      "address": {
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "postal_code": "72317"
+      },
+      "skills": [
+        "React",
+        "SQL",
+        "Networking",
+        "Public Speaking",
+        "Java"
+      ],
+      "manager": "Bilal Khan",
+      "projects": [],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.0,
+          "comments": null
+        },
+        {
+          "year": 2024,
+          "score": 2.3,
+          "comments": "Exceeds expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1062",
+      "full_name": "Bilal Javed",
+      "department": "Sales",
+      "email": "bilal.javed62@examplecorp.com",
+      "hire_date": "2024-03-11",
+      "salary": 71754,
+      "is_active": true,
+      "address": {
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "postal_code": "16571"
+      },
+      "skills": [
+        "Machine Learning",
+        "Cloud Computing",
+        "Networking",
+        "UI/UX Design"
+      ],
+      "manager": "Ahmed Shah",
+      "projects": [],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.1,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2023,
+          "score": 4.7,
+          "comments": "Exceeds expectations"
+        },
+        {
+          "year": 2024,
+          "score": 2.0,
+          "comments": "Exceeds expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1063",
+      "full_name": "Amna Ahmed",
+      "department": "Marketing",
+      "email": "amna.ahmed63@examplecorp.com",
+      "hire_date": "2021-10-24",
+      "salary": 144511,
+      "is_active": true,
+      "address": {
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "postal_code": "92536"
+      },
+      "skills": [
+        "Java",
+        "Data Analysis",
+        "Machine Learning",
+        "UI/UX Design",
+        "Communication"
+      ],
+      "manager": "Faisal Iqbal",
+      "projects": [
+        {
+          "name": "Customer Portal",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 191.8
+        },
+        {
+          "name": "Cloud Migration",
+          "role": "Reviewer",
+          "status": "Completed",
+          "hours_logged": 66.7
+        },
+        {
+          "name": "Inventory System",
+          "role": "Reviewer",
+          "status": "Planned",
+          "hours_logged": 96.6
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.2,
+          "comments": null
+        },
+        {
+          "year": 2023,
+          "score": 4.5,
+          "comments": "Needs improvement"
+        },
+        {
+          "year": 2024,
+          "score": 4.2,
+          "comments": "Exceeds expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1064",
+      "full_name": "Bilal Chaudhry",
+      "department": "Sales",
+      "email": "bilal.chaudhry64@examplecorp.com",
+      "hire_date": "2024-11-11",
+      "salary": 40220,
+      "is_active": true,
+      "address": {
+        "city": "Multan",
+        "country": "Pakistan",
+        "postal_code": "65377"
+      },
+      "skills": [
+        "Leadership",
+        "Networking",
+        "Machine Learning"
+      ],
+      "manager": "Sara Shah",
+      "projects": [
+        {
+          "name": "Inventory System",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 78.5
+        },
+        {
+          "name": "API Integration",
+          "role": "Reviewer",
+          "status": "In Progress",
+          "hours_logged": 162.5
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.4,
+          "comments": "Great initiative shown"
+        },
+        {
+          "year": 2024,
+          "score": 4.4,
+          "comments": "Great initiative shown"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1065",
+      "full_name": "Sana Iqbal",
+      "department": "HR",
+      "email": "sana.iqbal65@examplecorp.com",
+      "hire_date": "2024-01-13",
+      "salary": 51495,
+      "is_active": true,
+      "address": {
+        "city": "Quetta",
+        "country": "Pakistan",
+        "postal_code": "18209"
+      },
+      "skills": [
+        "Data Analysis",
+        "Leadership",
+        "React"
+      ],
+      "manager": "Imran Iqbal",
+      "projects": [
+        {
+          "name": "Mobile App Launch",
+          "role": "Reviewer",
+          "status": "Planned",
+          "hours_logged": 160.5
+        },
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Reviewer",
+          "status": "In Progress",
+          "hours_logged": 65.3
+        },
+        {
+          "name": "Website Revamp",
+          "role": "Reviewer",
+          "status": "Planned",
+          "hours_logged": 95.7
+        },
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Contributor",
+          "status": "Completed",
+          "hours_logged": 159.4
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.8,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2023,
+          "score": 2.3,
+          "comments": null
+        },
+        {
+          "year": 2024,
+          "score": 3.7,
+          "comments": "Needs improvement"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1066",
+      "full_name": "Kamran Butt",
+      "department": "Engineering",
+      "email": "kamran.butt66@examplecorp.com",
+      "hire_date": "2023-02-01",
+      "salary": 122934,
+      "is_active": true,
+      "address": {
+        "city": "Karachi",
+        "country": "Pakistan",
+        "postal_code": "30467"
+      },
+      "skills": [
+        "Leadership",
+        "Python",
+        "Project Management",
+        "Communication"
+      ],
+      "manager": "Ali Ahmed",
+      "projects": [
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Lead",
+          "status": "Planned",
+          "hours_logged": 77.9
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2023,
+          "score": 4.6,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2024,
+          "score": 2.6,
+          "comments": "Needs improvement"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1067",
+      "full_name": "Nadia Ahmed",
+      "department": "Finance",
+      "email": "nadia.ahmed67@examplecorp.com",
+      "hire_date": "2023-01-28",
+      "salary": 132480,
+      "is_active": true,
+      "address": {
+        "city": "Karachi",
+        "country": "Pakistan",
+        "postal_code": "88389"
+      },
+      "skills": [
+        "UI/UX Design",
+        "SQL",
+        "Cloud Computing",
+        "Networking",
+        "Communication"
+      ],
+      "manager": "Zainab Ahmed",
+      "projects": [
+        {
+          "name": "Inventory System",
+          "role": "Reviewer",
+          "status": "In Progress",
+          "hours_logged": 54.5
+        },
+        {
+          "name": "Website Revamp",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 198.9
+        },
+        {
+          "name": "API Integration",
+          "role": "Lead",
+          "status": "Completed",
+          "hours_logged": 14.9
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.0,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2024,
+          "score": 3.1,
+          "comments": "Meets expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1068",
+      "full_name": "Zainab Malik",
+      "department": "Sales",
+      "email": "zainab.malik68@examplecorp.com",
+      "hire_date": "2022-12-22",
+      "salary": 47769,
+      "is_active": true,
+      "address": {
+        "city": "Lahore",
+        "country": "Pakistan",
+        "postal_code": "16165"
+      },
+      "skills": [
+        "Machine Learning",
+        "React",
+        "Cloud Computing",
+        "UI/UX Design"
+      ],
+      "manager": "Sana Khan",
+      "projects": [],
+      "performance_reviews": [
+        {
+          "year": 2023,
+          "score": 2.0,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2024,
+          "score": 2.9,
+          "comments": "Great initiative shown"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1069",
+      "full_name": "Tariq Ahmed",
+      "department": "Marketing",
+      "email": "tariq.ahmed69@examplecorp.com",
+      "hire_date": "2021-03-15",
+      "salary": 60572,
+      "is_active": true,
+      "address": {
+        "city": "Peshawar",
+        "country": "Pakistan",
+        "postal_code": "20195"
+      },
+      "skills": [
+        "Networking",
+        "Project Management",
+        "Cloud Computing",
+        "JavaScript",
+        "Java",
+        "SQL"
+      ],
+      "manager": "Kamran Khan",
+      "projects": [
+        {
+          "name": "Internal Dashboard",
+          "role": "Contributor",
+          "status": "On Hold",
+          "hours_logged": 81.1
+        },
+        {
+          "name": "Internal Dashboard",
+          "role": "Contributor",
+          "status": "Planned",
+          "hours_logged": 37.9
+        },
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Lead",
+          "status": "Completed",
+          "hours_logged": 96.2
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.4,
+          "comments": "Needs improvement"
+        },
+        {
+          "year": 2023,
+          "score": 2.7,
+          "comments": "Exceeds expectations"
+        },
+        {
+          "year": 2024,
+          "score": 2.4,
+          "comments": "Meets expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1070",
+      "full_name": "Sara Malik",
+      "department": "Marketing",
+      "email": "sara.malik70@examplecorp.com",
+      "hire_date": "2022-06-18",
+      "salary": 104357,
+      "is_active": true,
+      "address": {
+        "city": "Rawalpindi",
+        "country": "Pakistan",
+        "postal_code": "73233"
+      },
+      "skills": [
+        "JavaScript",
+        "React"
+      ],
+      "manager": null,
+      "projects": [
+        {
+          "name": "Marketing Automation",
+          "role": "Lead",
+          "status": "Planned",
+          "hours_logged": 174.8
+        },
+        {
+          "name": "Customer Portal",
+          "role": "Contributor",
+          "status": "Planned",
+          "hours_logged": 53.1
+        },
+        {
+          "name": "Website Revamp",
+          "role": "Contributor",
+          "status": "On Hold",
+          "hours_logged": 70.2
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.0,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2023,
+          "score": 4.5,
+          "comments": "Exceeds expectations"
+        },
+        {
+          "year": 2024,
+          "score": 2.6,
+          "comments": "Needs improvement"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1071",
+      "full_name": "Nadia Shah",
+      "department": "Marketing",
+      "email": "nadia.shah71@examplecorp.com",
+      "hire_date": "2021-04-28",
+      "salary": 149094,
+      "is_active": true,
+      "address": {
+        "city": "Multan",
+        "country": "Pakistan",
+        "postal_code": "28920"
+      },
+      "skills": [
+        "Java",
+        "Machine Learning"
+      ],
+      "manager": "Imran Malik",
+      "projects": [
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Lead",
+          "status": "Planned",
+          "hours_logged": 61.4
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.4,
+          "comments": "Great initiative shown"
+        },
+        {
+          "year": 2023,
+          "score": 3.1,
+          "comments": "Exceeds expectations"
+        },
+        {
+          "year": 2024,
+          "score": 2.7,
+          "comments": "Great initiative shown"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1072",
+      "full_name": "Ayesha Malik",
+      "department": "Engineering",
+      "email": "ayesha.malik72@examplecorp.com",
+      "hire_date": "2021-06-29",
+      "salary": 119764,
+      "is_active": true,
+      "address": {
+        "city": "Multan",
+        "country": "Pakistan",
+        "postal_code": "32979"
+      },
+      "skills": [
+        "JavaScript",
+        "Leadership",
+        "Public Speaking"
+      ],
+      "manager": "Hassan Chaudhry",
+      "projects": [
+        {
+          "name": "Marketing Automation",
+          "role": "Lead",
+          "status": "In Progress",
+          "hours_logged": 43.4
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.0,
+          "comments": null
+        },
+        {
+          "year": 2023,
+          "score": 3.2,
+          "comments": null
+        },
+        {
+          "year": 2024,
+          "score": 3.6,
+          "comments": "Needs improvement"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1073",
+      "full_name": "Omar Shah",
+      "department": "Sales",
+      "email": "omar.shah73@examplecorp.com",
+      "hire_date": "2024-03-23",
+      "salary": 117974,
+      "is_active": true,
+      "address": {
+        "city": "Quetta",
+        "country": "Pakistan",
+        "postal_code": "78134"
+      },
+      "skills": [
+        "React",
+        "SQL",
+        "Networking",
+        "Project Management",
+        "Excel"
+      ],
+      "manager": "Omar Raza",
+      "projects": [
+        {
+          "name": "Mobile App Launch",
+          "role": "Lead",
+          "status": "Planned",
+          "hours_logged": 182.5
+        },
+        {
+          "name": "Cloud Migration",
+          "role": "Lead",
+          "status": "On Hold",
+          "hours_logged": 53.4
+        },
+        {
+          "name": "Inventory System",
+          "role": "Contributor",
+          "status": "Completed",
+          "hours_logged": 36.9
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.7,
+          "comments": "Needs improvement"
+        },
+        {
+          "year": 2023,
+          "score": 4.9,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2024,
+          "score": 2.1,
+          "comments": "Great initiative shown"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1074",
+      "full_name": "Bilal Khan",
+      "department": "Sales",
+      "email": "bilal.khan74@examplecorp.com",
+      "hire_date": "2022-05-28",
+      "salary": 112792,
+      "is_active": true,
+      "address": {
+        "city": "Lahore",
+        "country": "Pakistan",
+        "postal_code": "12549"
+      },
+      "skills": [
+        "UI/UX Design",
+        "Cloud Computing"
+      ],
+      "manager": "Usman Khan",
+      "projects": [
+        {
+          "name": "Mobile App Launch",
+          "role": "Lead",
+          "status": "In Progress",
+          "hours_logged": 37.7
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.9,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2023,
+          "score": 4.1,
+          "comments": "Exceeds expectations"
+        },
+        {
+          "year": 2024,
+          "score": 2.3,
+          "comments": "Meets expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1075",
+      "full_name": "Sara Shah",
+      "department": "HR",
+      "email": "sara.shah75@examplecorp.com",
+      "hire_date": "2023-10-08",
+      "salary": 116795,
+      "is_active": true,
+      "address": {
+        "city": "Multan",
+        "country": "Pakistan",
+        "postal_code": "24423"
+      },
+      "skills": [
+        "SQL",
+        "Data Analysis"
+      ],
+      "manager": "Rabia Chaudhry",
+      "projects": [],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.7,
+          "comments": null
+        },
+        {
+          "year": 2023,
+          "score": 4.2,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2024,
+          "score": 2.1,
+          "comments": null
+        }
+      ]
+    },
+    {
+      "employee_id": "E1076",
+      "full_name": "Kamran Raza",
+      "department": "Engineering",
+      "email": "kamran.raza76@examplecorp.com",
+      "hire_date": "2022-10-28",
+      "salary": 107813,
+      "is_active": true,
+      "address": {
+        "city": "Quetta",
+        "country": "Pakistan",
+        "postal_code": "42674"
+      },
+      "skills": [
+        "Public Speaking",
+        "UI/UX Design",
+        "Python",
+        "Project Management",
+        "SQL"
+      ],
+      "manager": "Ahmed Iqbal",
+      "projects": [
+        {
+          "name": "Inventory System",
+          "role": "Reviewer",
+          "status": "Completed",
+          "hours_logged": 82.1
+        },
+        {
+          "name": "Website Revamp",
+          "role": "Contributor",
+          "status": "On Hold",
+          "hours_logged": 83.1
+        },
+        {
+          "name": "Internal Dashboard",
+          "role": "Reviewer",
+          "status": "Planned",
+          "hours_logged": 169.4
+        },
+        {
+          "name": "Inventory System",
+          "role": "Contributor",
+          "status": "Planned",
+          "hours_logged": 170.3
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.5,
+          "comments": "Exceeds expectations"
+        },
+        {
+          "year": 2023,
+          "score": 3.3,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2024,
+          "score": 4.8,
+          "comments": null
+        }
+      ]
+    },
+    {
+      "employee_id": "E1077",
+      "full_name": "Sara Khan",
+      "department": "Support",
+      "email": "sara.khan77@examplecorp.com",
+      "hire_date": "2024-06-25",
+      "salary": 74835,
+      "is_active": true,
+      "address": {
+        "city": "Multan",
+        "country": "Pakistan",
+        "postal_code": "92345"
+      },
+      "skills": [
+        "Machine Learning",
+        "Python",
+        "Leadership",
+        "SQL",
+        "Communication",
+        "Cloud Computing"
+      ],
+      "manager": "Nadia Hussain",
+      "projects": [],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.9,
+          "comments": "Needs improvement"
+        },
+        {
+          "year": 2023,
+          "score": 2.5,
+          "comments": "Exceeds expectations"
+        },
+        {
+          "year": 2024,
+          "score": 4.9,
+          "comments": "Great initiative shown"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1078",
+      "full_name": "Usman Ahmed",
+      "department": "Engineering",
+      "email": "usman.ahmed78@examplecorp.com",
+      "hire_date": "2024-01-24",
+      "salary": 77639,
+      "is_active": true,
+      "address": {
+        "city": "Peshawar",
+        "country": "Pakistan",
+        "postal_code": "95243"
+      },
+      "skills": [
+        "Excel",
+        "React",
+        "Cloud Computing",
+        "Project Management",
+        "Java"
+      ],
+      "manager": "Mariam Chaudhry",
+      "projects": [
+        {
+          "name": "Inventory System",
+          "role": "Reviewer",
+          "status": "In Progress",
+          "hours_logged": 90.8
+        },
+        {
+          "name": "Marketing Automation",
+          "role": "Lead",
+          "status": "On Hold",
+          "hours_logged": 183.5
+        },
+        {
+          "name": "Inventory System",
+          "role": "Contributor",
+          "status": "On Hold",
+          "hours_logged": 52.5
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.5,
+          "comments": "Exceeds expectations"
+        },
+        {
+          "year": 2023,
+          "score": 2.7,
+          "comments": "Great initiative shown"
+        },
+        {
+          "year": 2024,
+          "score": 4.9,
+          "comments": "Strong team player"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1079",
+      "full_name": "Ali Iqbal",
+      "department": "Sales",
+      "email": "ali.iqbal79@examplecorp.com",
+      "hire_date": "2022-03-19",
+      "salary": 78732,
+      "is_active": false,
+      "address": {
+        "city": "Lahore",
+        "country": "Pakistan",
+        "postal_code": "30783"
+      },
+      "skills": [
+        "SQL",
+        "Leadership",
+        "Project Management",
+        "Java",
+        "Public Speaking",
+        "Python"
+      ],
+      "manager": "Tariq Iqbal",
+      "projects": [
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Contributor",
+          "status": "On Hold",
+          "hours_logged": 100.8
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.3,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2023,
+          "score": 4.0,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2024,
+          "score": 4.0,
+          "comments": "Meets expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1080",
+      "full_name": "Hassan Chaudhry",
+      "department": "Finance",
+      "email": "hassan.chaudhry80@examplecorp.com",
+      "hire_date": "2021-11-03",
+      "salary": 94776,
+      "is_active": true,
+      "address": {
+        "city": "Multan",
+        "country": "Pakistan",
+        "postal_code": "91448"
+      },
+      "skills": [
+        "SQL",
+        "Data Analysis",
+        "Java",
+        "Cloud Computing",
+        "Machine Learning",
+        "Communication"
+      ],
+      "manager": "Mariam Iqbal",
+      "projects": [
+        {
+          "name": "Customer Portal",
+          "role": "Reviewer",
+          "status": "Completed",
+          "hours_logged": 149.1
+        },
+        {
+          "name": "Cloud Migration",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 85.5
+        },
+        {
+          "name": "Mobile App Launch",
+          "role": "Lead",
+          "status": "Planned",
+          "hours_logged": 154.3
+        },
+        {
+          "name": "Inventory System",
+          "role": "Lead",
+          "status": "Planned",
+          "hours_logged": 82.5
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.7,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2023,
+          "score": 2.0,
+          "comments": null
+        },
+        {
+          "year": 2024,
+          "score": 3.5,
+          "comments": "Strong team player"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1081",
+      "full_name": "Mariam Malik",
+      "department": "Sales",
+      "email": "mariam.malik81@examplecorp.com",
+      "hire_date": "2024-03-02",
+      "salary": 105187,
+      "is_active": true,
+      "address": {
+        "city": "Multan",
+        "country": "Pakistan",
+        "postal_code": "80582"
+      },
+      "skills": [
+        "Data Analysis",
+        "React",
+        "Networking",
+        "Cloud Computing",
+        "Public Speaking",
+        "UI/UX Design"
+      ],
+      "manager": "Hina Khan",
+      "projects": [
+        {
+          "name": "Customer Portal",
+          "role": "Lead",
+          "status": "Planned",
+          "hours_logged": 117.2
+        },
+        {
+          "name": "Inventory System",
+          "role": "Lead",
+          "status": "Completed",
+          "hours_logged": 165.2
+        },
+        {
+          "name": "Internal Dashboard",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 192.0
+        },
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Contributor",
+          "status": "Completed",
+          "hours_logged": 10.0
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.1,
+          "comments": "Exceeds expectations"
+        },
+        {
+          "year": 2023,
+          "score": 3.6,
+          "comments": "Exceeds expectations"
+        },
+        {
+          "year": 2024,
+          "score": 3.5,
+          "comments": null
+        }
+      ]
+    },
+    {
+      "employee_id": "E1082",
+      "full_name": "Rabia Chaudhry",
+      "department": "Finance",
+      "email": "rabia.chaudhry82@examplecorp.com",
+      "hire_date": "2024-04-18",
+      "salary": 84994,
+      "is_active": true,
+      "address": {
+        "city": "Karachi",
+        "country": "Pakistan",
+        "postal_code": "32376"
+      },
+      "skills": [
+        "Project Management",
+        "UI/UX Design",
+        "SQL",
+        "Communication"
+      ],
+      "manager": "Fatima Shah",
+      "projects": [
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Contributor",
+          "status": "Planned",
+          "hours_logged": 83.3
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.5,
+          "comments": "Great initiative shown"
+        },
+        {
+          "year": 2023,
+          "score": 3.3,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2024,
+          "score": 4.4,
+          "comments": "Meets expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1083",
+      "full_name": "Imran Hussain",
+      "department": "HR",
+      "email": "imran.hussain83@examplecorp.com",
+      "hire_date": "2021-07-21",
+      "salary": 116834,
+      "is_active": false,
+      "address": {
+        "city": "Lahore",
+        "country": "Pakistan",
+        "postal_code": "35775"
+      },
+      "skills": [
+        "Java",
+        "Machine Learning",
+        "React"
+      ],
+      "manager": "Rabia Butt",
+      "projects": [
+        {
+          "name": "CRM Migration",
+          "role": "Lead",
+          "status": "Completed",
+          "hours_logged": 73.9
+        },
+        {
+          "name": "Website Revamp",
+          "role": "Reviewer",
+          "status": "Planned",
+          "hours_logged": 7.1
+        },
+        {
+          "name": "Website Revamp",
+          "role": "Contributor",
+          "status": "Completed",
+          "hours_logged": 183.8
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.7,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2023,
+          "score": 2.4,
+          "comments": "Great initiative shown"
+        },
+        {
+          "year": 2024,
+          "score": 2.3,
+          "comments": "Exceeds expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1084",
+      "full_name": "Ahmed Malik",
+      "department": "Support",
+      "email": "ahmed.malik84@examplecorp.com",
+      "hire_date": "2021-07-23",
+      "salary": 116317,
+      "is_active": false,
+      "address": {
+        "city": "Peshawar",
+        "country": "Pakistan",
+        "postal_code": "68961"
+      },
+      "skills": [
+        "Data Analysis",
+        "Python",
+        "Networking",
+        "Excel",
+        "UI/UX Design",
+        "Leadership"
+      ],
+      "manager": "Sara Javed",
+      "projects": [
+        {
+          "name": "Cloud Migration",
+          "role": "Contributor",
+          "status": "Planned",
+          "hours_logged": 162.3
+        },
+        {
+          "name": "Website Revamp",
+          "role": "Reviewer",
+          "status": "Completed",
+          "hours_logged": 138.5
+        },
+        {
+          "name": "Inventory System",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 144.5
+        },
+        {
+          "name": "Internal Dashboard",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 11.4
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2023,
+          "score": 2.7,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2024,
+          "score": 4.6,
+          "comments": "Needs improvement"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1085",
+      "full_name": "Ali Javed",
+      "department": "Support",
+      "email": "ali.javed85@examplecorp.com",
+      "hire_date": "2024-04-12",
+      "salary": 69019,
+      "is_active": true,
+      "address": {
+        "city": "Faisalabad",
+        "country": "Pakistan",
+        "postal_code": "73489"
+      },
+      "skills": [
+        "Machine Learning",
+        "Networking"
+      ],
+      "manager": "Ayesha Malik",
+      "projects": [
+        {
+          "name": "API Integration",
+          "role": "Reviewer",
+          "status": "On Hold",
+          "hours_logged": 192.2
+        },
+        {
+          "name": "Cloud Migration",
+          "role": "Lead",
+          "status": "In Progress",
+          "hours_logged": 137.1
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.6,
+          "comments": "Needs improvement"
+        },
+        {
+          "year": 2023,
+          "score": 3.1,
+          "comments": "Needs improvement"
+        },
+        {
+          "year": 2024,
+          "score": 3.2,
+          "comments": "Strong team player"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1086",
+      "full_name": "Ahmed Ahmed",
+      "department": "Marketing",
+      "email": "ahmed.ahmed86@examplecorp.com",
+      "hire_date": "2022-05-11",
+      "salary": 132519,
+      "is_active": true,
+      "address": {
+        "city": "Peshawar",
+        "country": "Pakistan",
+        "postal_code": "45345"
+      },
+      "skills": [
+        "Networking",
+        "Machine Learning",
+        "JavaScript",
+        "React",
+        "Java",
+        "Public Speaking"
+      ],
+      "manager": "Zainab Malik",
+      "projects": [
+        {
+          "name": "Internal Dashboard",
+          "role": "Reviewer",
+          "status": "In Progress",
+          "hours_logged": 80.5
+        },
+        {
+          "name": "Cloud Migration",
+          "role": "Contributor",
+          "status": "On Hold",
+          "hours_logged": 51.2
+        },
+        {
+          "name": "Website Revamp",
+          "role": "Contributor",
+          "status": "Completed",
+          "hours_logged": 71.6
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.6,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2023,
+          "score": 4.9,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2024,
+          "score": 3.4,
+          "comments": "Meets expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1087",
+      "full_name": "Zainab Javed",
+      "department": "Sales",
+      "email": "zainab.javed87@examplecorp.com",
+      "hire_date": "2023-12-31",
+      "salary": 72276,
+      "is_active": true,
+      "address": {
+        "city": "Peshawar",
+        "country": "Pakistan",
+        "postal_code": "26451"
+      },
+      "skills": [
+        "Public Speaking",
+        "React"
+      ],
+      "manager": null,
+      "projects": [
+        {
+          "name": "Customer Portal",
+          "role": "Reviewer",
+          "status": "Planned",
+          "hours_logged": 119.6
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.2,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2024,
+          "score": 2.4,
+          "comments": "Exceeds expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1088",
+      "full_name": "Kamran Ahmed",
+      "department": "Engineering",
+      "email": "kamran.ahmed88@examplecorp.com",
+      "hire_date": "2021-05-20",
+      "salary": 113661,
+      "is_active": true,
+      "address": {
+        "city": "Multan",
+        "country": "Pakistan",
+        "postal_code": "35273"
+      },
+      "skills": [
+        "Cloud Computing",
+        "Communication"
+      ],
+      "manager": null,
+      "projects": [
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 134.2
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.5,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2023,
+          "score": 3.2,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2024,
+          "score": 4.6,
+          "comments": "Meets expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1089",
+      "full_name": "Usman Malik",
+      "department": "Sales",
+      "email": "usman.malik89@examplecorp.com",
+      "hire_date": "2024-10-23",
+      "salary": 144777,
+      "is_active": true,
+      "address": {
+        "city": "Quetta",
+        "country": "Pakistan",
+        "postal_code": "64076"
+      },
+      "skills": [
+        "Public Speaking",
+        "Cloud Computing"
+      ],
+      "manager": "Zainab Raza",
+      "projects": [],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.9,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2023,
+          "score": 2.8,
+          "comments": "Great initiative shown"
+        },
+        {
+          "year": 2024,
+          "score": 4.1,
+          "comments": "Exceeds expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1090",
+      "full_name": "Kamran Khan",
+      "department": "Finance",
+      "email": "kamran.khan90@examplecorp.com",
+      "hire_date": "2022-12-16",
+      "salary": 40127,
+      "is_active": true,
+      "address": {
+        "city": "Multan",
+        "country": "Pakistan",
+        "postal_code": "15630"
+      },
+      "skills": [
+        "Leadership",
+        "Cloud Computing",
+        "Python",
+        "Excel",
+        "Public Speaking",
+        "SQL"
+      ],
+      "manager": null,
+      "projects": [
+        {
+          "name": "CRM Migration",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 152.6
+        },
+        {
+          "name": "CRM Migration",
+          "role": "Contributor",
+          "status": "Completed",
+          "hours_logged": 112.7
+        },
+        {
+          "name": "CRM Migration",
+          "role": "Reviewer",
+          "status": "In Progress",
+          "hours_logged": 116.2
+        },
+        {
+          "name": "Marketing Automation",
+          "role": "Contributor",
+          "status": "Planned",
+          "hours_logged": 135.7
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.3,
+          "comments": "Needs improvement"
+        },
+        {
+          "year": 2023,
+          "score": 2.3,
+          "comments": null
+        },
+        {
+          "year": 2024,
+          "score": 5.0,
+          "comments": "Great initiative shown"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1091",
+      "full_name": "Zainab Shah",
+      "department": "Marketing",
+      "email": "zainab.shah91@examplecorp.com",
+      "hire_date": "2024-07-29",
+      "salary": 70933,
+      "is_active": true,
+      "address": {
+        "city": "Peshawar",
+        "country": "Pakistan",
+        "postal_code": "17783"
+      },
+      "skills": [
+        "Project Management",
+        "UI/UX Design",
+        "Data Analysis"
+      ],
+      "manager": null,
+      "projects": [
+        {
+          "name": "Mobile App Launch",
+          "role": "Contributor",
+          "status": "Planned",
+          "hours_logged": 91.3
+        },
+        {
+          "name": "Internal Dashboard",
+          "role": "Reviewer",
+          "status": "Planned",
+          "hours_logged": 104.2
+        },
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 100.5
+        },
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Lead",
+          "status": "On Hold",
+          "hours_logged": 39.0
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.4,
+          "comments": null
+        },
+        {
+          "year": 2023,
+          "score": 4.0,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2024,
+          "score": 2.0,
+          "comments": null
+        }
+      ]
+    },
+    {
+      "employee_id": "E1092",
+      "full_name": "Tariq Malik",
+      "department": "Marketing",
+      "email": "tariq.malik92@examplecorp.com",
+      "hire_date": "2024-10-18",
+      "salary": 127363,
+      "is_active": true,
+      "address": {
+        "city": "Rawalpindi",
+        "country": "Pakistan",
+        "postal_code": "63228"
+      },
+      "skills": [
+        "SQL",
+        "Cloud Computing",
+        "Communication"
+      ],
+      "manager": null,
+      "projects": [
+        {
+          "name": "Customer Portal",
+          "role": "Lead",
+          "status": "In Progress",
+          "hours_logged": 119.6
+        },
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Contributor",
+          "status": "Completed",
+          "hours_logged": 111.9
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.1,
+          "comments": "Needs improvement"
+        },
+        {
+          "year": 2023,
+          "score": 2.3,
+          "comments": "Needs improvement"
+        },
+        {
+          "year": 2024,
+          "score": 2.3,
+          "comments": "Needs improvement"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1093",
+      "full_name": "Tariq Javed",
+      "department": "HR",
+      "email": "tariq.javed93@examplecorp.com",
+      "hire_date": "2023-09-28",
+      "salary": 64878,
+      "is_active": true,
+      "address": {
+        "city": "Quetta",
+        "country": "Pakistan",
+        "postal_code": "11088"
+      },
+      "skills": [
+        "UI/UX Design",
+        "SQL",
+        "Public Speaking",
+        "Communication"
+      ],
+      "manager": "Usman Hussain",
+      "projects": [
+        {
+          "name": "Internal Dashboard",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 113.7
+        },
+        {
+          "name": "Website Revamp",
+          "role": "Lead",
+          "status": "Planned",
+          "hours_logged": 198.5
+        },
+        {
+          "name": "Cloud Migration",
+          "role": "Lead",
+          "status": "On Hold",
+          "hours_logged": 196.1
+        },
+        {
+          "name": "Inventory System",
+          "role": "Contributor",
+          "status": "Completed",
+          "hours_logged": 130.8
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2023,
+          "score": 2.1,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2024,
+          "score": 2.9,
+          "comments": "Meets expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1094",
+      "full_name": "Imran Malik",
+      "department": "Support",
+      "email": "imran.malik94@examplecorp.com",
+      "hire_date": "2022-09-28",
+      "salary": 137297,
+      "is_active": true,
+      "address": {
+        "city": "Faisalabad",
+        "country": "Pakistan",
+        "postal_code": "34188"
+      },
+      "skills": [
+        "Project Management",
+        "Excel",
+        "UI/UX Design",
+        "JavaScript"
+      ],
+      "manager": "Hina Shah",
+      "projects": [],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.1,
+          "comments": "Great initiative shown"
+        },
+        {
+          "year": 2023,
+          "score": 4.8,
+          "comments": null
+        },
+        {
+          "year": 2024,
+          "score": 2.2,
+          "comments": "Meets expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1095",
+      "full_name": "Sana Raza",
+      "department": "HR",
+      "email": "sana.raza95@examplecorp.com",
+      "hire_date": "2022-01-26",
+      "salary": 68609,
+      "is_active": true,
+      "address": {
+        "city": "Lahore",
+        "country": "Pakistan",
+        "postal_code": "14197"
+      },
+      "skills": [
+        "Networking",
+        "UI/UX Design",
+        "Machine Learning",
+        "React",
+        "Data Analysis",
+        "JavaScript"
+      ],
+      "manager": "Sara Butt",
+      "projects": [
+        {
+          "name": "CRM Migration",
+          "role": "Contributor",
+          "status": "Completed",
+          "hours_logged": 32.7
+        },
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Lead",
+          "status": "In Progress",
+          "hours_logged": 91.4
+        },
+        {
+          "name": "API Integration",
+          "role": "Lead",
+          "status": "Completed",
+          "hours_logged": 170.9
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.7,
+          "comments": "Exceeds expectations"
+        },
+        {
+          "year": 2023,
+          "score": 4.0,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2024,
+          "score": 2.5,
+          "comments": "Needs improvement"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1096",
+      "full_name": "Ali Javed",
+      "department": "Engineering",
+      "email": "ali.javed96@examplecorp.com",
+      "hire_date": "2024-10-17",
+      "salary": 83455,
+      "is_active": true,
+      "address": {
+        "city": "Multan",
+        "country": "Pakistan",
+        "postal_code": "84058"
+      },
+      "skills": [
+        "Data Analysis",
+        "Project Management",
+        "Java",
+        "Public Speaking",
+        "Cloud Computing",
+        "JavaScript"
+      ],
+      "manager": "Omar Butt",
+      "projects": [
+        {
+          "name": "Internal Dashboard",
+          "role": "Reviewer",
+          "status": "In Progress",
+          "hours_logged": 96.4
+        },
+        {
+          "name": "Marketing Automation",
+          "role": "Contributor",
+          "status": "Planned",
+          "hours_logged": 88.5
+        },
+        {
+          "name": "Marketing Automation",
+          "role": "Reviewer",
+          "status": "In Progress",
+          "hours_logged": 195.0
+        },
+        {
+          "name": "Inventory System",
+          "role": "Reviewer",
+          "status": "Completed",
+          "hours_logged": 163.2
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.1,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2023,
+          "score": 4.2,
+          "comments": null
+        }
+      ]
+    },
+    {
+      "employee_id": "E1097",
+      "full_name": "Faisal Iqbal",
+      "department": "Marketing",
+      "email": "faisal.iqbal97@examplecorp.com",
+      "hire_date": "2023-12-24",
+      "salary": 127849,
+      "is_active": true,
+      "address": {
+        "city": "Rawalpindi",
+        "country": "Pakistan",
+        "postal_code": "39752"
+      },
+      "skills": [
+        "Java",
+        "Excel",
+        "React",
+        "Leadership",
+        "SQL",
+        "Machine Learning"
+      ],
+      "manager": "Faisal Ahmed",
+      "projects": [
+        {
+          "name": "Inventory System",
+          "role": "Contributor",
+          "status": "On Hold",
+          "hours_logged": 108.3
+        },
+        {
+          "name": "Inventory System",
+          "role": "Contributor",
+          "status": "Planned",
+          "hours_logged": 55.9
+        },
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Lead",
+          "status": "In Progress",
+          "hours_logged": 111.9
+        },
+        {
+          "name": "Mobile App Launch",
+          "role": "Lead",
+          "status": "On Hold",
+          "hours_logged": 131.7
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.0,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2024,
+          "score": 3.5,
+          "comments": "Exceeds expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1098",
+      "full_name": "Imran Ahmed",
+      "department": "Engineering",
+      "email": "imran.ahmed98@examplecorp.com",
+      "hire_date": "2023-02-02",
+      "salary": 45470,
+      "is_active": false,
+      "address": {
+        "city": "Peshawar",
+        "country": "Pakistan",
+        "postal_code": "70254"
+      },
+      "skills": [
+        "SQL",
+        "Cloud Computing",
+        "JavaScript",
+        "Data Analysis"
+      ],
+      "manager": "Ahmed Chaudhry",
+      "projects": [
+        {
+          "name": "API Integration",
+          "role": "Reviewer",
+          "status": "In Progress",
+          "hours_logged": 193.8
+        },
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Reviewer",
+          "status": "Planned",
+          "hours_logged": 156.1
+        },
+        {
+          "name": "CRM Migration",
+          "role": "Contributor",
+          "status": "Completed",
+          "hours_logged": 83.8
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.6,
+          "comments": "Exceeds expectations"
+        },
+        {
+          "year": 2023,
+          "score": 4.6,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2024,
+          "score": 4.5,
+          "comments": null
+        }
+      ]
+    },
+    {
+      "employee_id": "E1099",
+      "full_name": "Ali Shah",
+      "department": "Marketing",
+      "email": "ali.shah99@examplecorp.com",
+      "hire_date": "2023-02-03",
+      "salary": 107263,
+      "is_active": true,
+      "address": {
+        "city": "Quetta",
+        "country": "Pakistan",
+        "postal_code": "74092"
+      },
+      "skills": [
+        "Networking",
+        "Leadership"
+      ],
+      "manager": "Hina Butt",
+      "projects": [],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.8,
+          "comments": "Exceeds expectations"
+        },
+        {
+          "year": 2023,
+          "score": 4.0,
+          "comments": "Needs improvement"
+        },
+        {
+          "year": 2024,
+          "score": 4.1,
+          "comments": "Exceeds expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1100",
+      "full_name": "Faisal Javed",
+      "department": "Engineering",
+      "email": "faisal.javed100@examplecorp.com",
+      "hire_date": "2023-09-27",
+      "salary": 54472,
+      "is_active": false,
+      "address": {
+        "city": "Multan",
+        "country": "Pakistan",
+        "postal_code": "34283"
+      },
+      "skills": [
+        "React",
+        "Communication",
+        "Public Speaking"
+      ],
+      "manager": "Bilal Chaudhry",
+      "projects": [],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.6,
+          "comments": null
+        },
+        {
+          "year": 2023,
+          "score": 2.8,
+          "comments": "Strong team player"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1101",
+      "full_name": "Omar Malik",
+      "department": "Support",
+      "email": "omar.malik101@examplecorp.com",
+      "hire_date": "2023-07-08",
+      "salary": 91565,
+      "is_active": true,
+      "address": {
+        "city": "Karachi",
+        "country": "Pakistan",
+        "postal_code": "57308"
+      },
+      "skills": [
+        "React",
+        "Excel",
+        "Communication",
+        "JavaScript"
+      ],
+      "manager": "Sara Hussain",
+      "projects": [
+        {
+          "name": "Marketing Automation",
+          "role": "Contributor",
+          "status": "Completed",
+          "hours_logged": 161.1
+        },
+        {
+          "name": "Website Revamp",
+          "role": "Lead",
+          "status": "In Progress",
+          "hours_logged": 126.0
+        },
+        {
+          "name": "Inventory System",
+          "role": "Contributor",
+          "status": "Planned",
+          "hours_logged": 193.7
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2023,
+          "score": 3.4,
+          "comments": "Great initiative shown"
+        },
+        {
+          "year": 2024,
+          "score": 4.8,
+          "comments": "Needs improvement"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1102",
+      "full_name": "Ali Iqbal",
+      "department": "Finance",
+      "email": "ali.iqbal102@examplecorp.com",
+      "hire_date": "2024-04-11",
+      "salary": 58231,
+      "is_active": true,
+      "address": {
+        "city": "Lahore",
+        "country": "Pakistan",
+        "postal_code": "83482"
+      },
+      "skills": [
+        "Networking",
+        "Excel"
+      ],
+      "manager": "Faisal Ahmed",
+      "projects": [
+        {
+          "name": "Cloud Migration",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 9.0
+        },
+        {
+          "name": "Cloud Migration",
+          "role": "Reviewer",
+          "status": "Completed",
+          "hours_logged": 128.0
+        },
+        {
+          "name": "CRM Migration",
+          "role": "Contributor",
+          "status": "Planned",
+          "hours_logged": 58.3
+        },
+        {
+          "name": "Marketing Automation",
+          "role": "Contributor",
+          "status": "On Hold",
+          "hours_logged": 115.9
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.8,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2023,
+          "score": 4.8,
+          "comments": null
+        }
+      ]
+    },
+    {
+      "employee_id": "E1103",
+      "full_name": "Omar Iqbal",
+      "department": "Engineering",
+      "email": "omar.iqbal103@examplecorp.com",
+      "hire_date": "2024-10-07",
+      "salary": 99392,
+      "is_active": true,
+      "address": {
+        "city": "Faisalabad",
+        "country": "Pakistan",
+        "postal_code": "84544"
+      },
+      "skills": [
+        "UI/UX Design",
+        "JavaScript",
+        "Leadership",
+        "SQL"
+      ],
+      "manager": "Mariam Shah",
+      "projects": [
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Contributor",
+          "status": "Planned",
+          "hours_logged": 70.2
+        },
+        {
+          "name": "Internal Dashboard",
+          "role": "Reviewer",
+          "status": "On Hold",
+          "hours_logged": 177.3
+        },
+        {
+          "name": "Cloud Migration",
+          "role": "Reviewer",
+          "status": "On Hold",
+          "hours_logged": 179.4
+        },
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 31.4
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.7,
+          "comments": "Needs improvement"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1104",
+      "full_name": "Ahmed Chaudhry",
+      "department": "Sales",
+      "email": "ahmed.chaudhry104@examplecorp.com",
+      "hire_date": "2024-11-14",
+      "salary": 96134,
+      "is_active": true,
+      "address": {
+        "city": "Karachi",
+        "country": "Pakistan",
+        "postal_code": "73506"
+      },
+      "skills": [
+        "UI/UX Design",
+        "JavaScript",
+        "Communication",
+        "Machine Learning"
+      ],
+      "manager": "Ayesha Shah",
+      "projects": [
+        {
+          "name": "Customer Portal",
+          "role": "Reviewer",
+          "status": "On Hold",
+          "hours_logged": 197.6
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.1,
+          "comments": "Exceeds expectations"
+        },
+        {
+          "year": 2023,
+          "score": 2.6,
+          "comments": "Great initiative shown"
+        },
+        {
+          "year": 2024,
+          "score": 3.5,
+          "comments": "Exceeds expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1105",
+      "full_name": "Hassan Hussain",
+      "department": "Marketing",
+      "email": "hassan.hussain105@examplecorp.com",
+      "hire_date": "2024-05-15",
+      "salary": 46370,
+      "is_active": false,
+      "address": {
+        "city": "Quetta",
+        "country": "Pakistan",
+        "postal_code": "27913"
+      },
+      "skills": [
+        "Excel",
+        "Communication"
+      ],
+      "manager": "Ali Iqbal",
+      "projects": [],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.6,
+          "comments": "Needs improvement"
+        },
+        {
+          "year": 2023,
+          "score": 2.1,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2024,
+          "score": 4.0,
+          "comments": "Needs improvement"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1106",
+      "full_name": "Ayesha Khan",
+      "department": "Sales",
+      "email": "ayesha.khan106@examplecorp.com",
+      "hire_date": "2021-04-25",
+      "salary": 94412,
+      "is_active": true,
+      "address": {
+        "city": "Quetta",
+        "country": "Pakistan",
+        "postal_code": "30536"
+      },
+      "skills": [
+        "Python",
+        "JavaScript"
+      ],
+      "manager": "Imran Ahmed",
+      "projects": [
+        {
+          "name": "Website Revamp",
+          "role": "Lead",
+          "status": "On Hold",
+          "hours_logged": 156.3
+        },
+        {
+          "name": "Inventory System",
+          "role": "Contributor",
+          "status": "On Hold",
+          "hours_logged": 188.3
+        },
+        {
+          "name": "Website Revamp",
+          "role": "Lead",
+          "status": "On Hold",
+          "hours_logged": 115.0
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.1,
+          "comments": "Needs improvement"
+        },
+        {
+          "year": 2023,
+          "score": 3.8,
+          "comments": "Great initiative shown"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1107",
+      "full_name": "Amna Chaudhry",
+      "department": "Finance",
+      "email": "amna.chaudhry107@examplecorp.com",
+      "hire_date": "2024-12-17",
+      "salary": 99396,
+      "is_active": true,
+      "address": {
+        "city": "Quetta",
+        "country": "Pakistan",
+        "postal_code": "78592"
+      },
+      "skills": [
+        "Communication",
+        "JavaScript",
+        "UI/UX Design",
+        "Python",
+        "React",
+        "Java"
+      ],
+      "manager": null,
+      "projects": [
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Reviewer",
+          "status": "On Hold",
+          "hours_logged": 163.6
+        },
+        {
+          "name": "Cloud Migration",
+          "role": "Lead",
+          "status": "On Hold",
+          "hours_logged": 132.1
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.9,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2023,
+          "score": 2.7,
+          "comments": "Exceeds expectations"
+        },
+        {
+          "year": 2024,
+          "score": 3.9,
+          "comments": "Exceeds expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1108",
+      "full_name": "Sara Butt",
+      "department": "Sales",
+      "email": "sara.butt108@examplecorp.com",
+      "hire_date": "2023-03-08",
+      "salary": 100306,
+      "is_active": true,
+      "address": {
+        "city": "Lahore",
+        "country": "Pakistan",
+        "postal_code": "24130"
+      },
+      "skills": [
+        "SQL",
+        "Machine Learning"
+      ],
+      "manager": "Kamran Iqbal",
+      "projects": [
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Reviewer",
+          "status": "In Progress",
+          "hours_logged": 55.5
+        },
+        {
+          "name": "Inventory System",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 181.1
+        },
+        {
+          "name": "CRM Migration",
+          "role": "Reviewer",
+          "status": "Completed",
+          "hours_logged": 73.4
+        },
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Contributor",
+          "status": "Planned",
+          "hours_logged": 46.6
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2023,
+          "score": 3.2,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2024,
+          "score": 3.9,
+          "comments": "Meets expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1109",
+      "full_name": "Ali Shah",
+      "department": "Sales",
+      "email": "ali.shah109@examplecorp.com",
+      "hire_date": "2024-12-23",
+      "salary": 96858,
+      "is_active": true,
+      "address": {
+        "city": "Quetta",
+        "country": "Pakistan",
+        "postal_code": "36634"
+      },
+      "skills": [
+        "Machine Learning",
+        "Data Analysis",
+        "Public Speaking",
+        "Communication"
+      ],
+      "manager": "Sana Hussain",
+      "projects": [],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.4,
+          "comments": "Strong team player"
+        },
+        {
+          "year": 2023,
+          "score": 4.6,
+          "comments": "Needs improvement"
+        },
+        {
+          "year": 2024,
+          "score": 2.4,
+          "comments": "Needs improvement"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1110",
+      "full_name": "Mariam Ahmed",
+      "department": "Engineering",
+      "email": "mariam.ahmed110@examplecorp.com",
+      "hire_date": "2022-03-06",
+      "salary": 136404,
+      "is_active": true,
+      "address": {
+        "city": "Rawalpindi",
+        "country": "Pakistan",
+        "postal_code": "33894"
+      },
+      "skills": [
+        "Networking",
+        "JavaScript",
+        "Communication",
+        "Public Speaking",
+        "Python"
+      ],
+      "manager": "Bilal Khan",
+      "projects": [
+        {
+          "name": "Website Revamp",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 36.5
+        },
+        {
+          "name": "Inventory System",
+          "role": "Reviewer",
+          "status": "Planned",
+          "hours_logged": 46.4
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2023,
+          "score": 3.5,
+          "comments": "Needs improvement"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1111",
+      "full_name": "Ayesha Javed",
+      "department": "Finance",
+      "email": "ayesha.javed111@examplecorp.com",
+      "hire_date": "2024-05-03",
+      "salary": 70360,
+      "is_active": true,
+      "address": {
+        "city": "Karachi",
+        "country": "Pakistan",
+        "postal_code": "12612"
+      },
+      "skills": [
+        "UI/UX Design",
+        "Project Management"
+      ],
+      "manager": null,
+      "projects": [
+        {
+          "name": "Mobile App Launch",
+          "role": "Contributor",
+          "status": "On Hold",
+          "hours_logged": 130.2
+        },
+        {
+          "name": "API Integration",
+          "role": "Contributor",
+          "status": "Completed",
+          "hours_logged": 119.1
+        },
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Reviewer",
+          "status": "Completed",
+          "hours_logged": 12.4
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2023,
+          "score": 4.9,
+          "comments": "Great initiative shown"
+        },
+        {
+          "year": 2024,
+          "score": 2.5,
+          "comments": null
+        }
+      ]
+    },
+    {
+      "employee_id": "E1112",
+      "full_name": "Rabia Malik",
+      "department": "Engineering",
+      "email": "rabia.malik112@examplecorp.com",
+      "hire_date": "2022-02-07",
+      "salary": 106683,
+      "is_active": false,
+      "address": {
+        "city": "Quetta",
+        "country": "Pakistan",
+        "postal_code": "45023"
+      },
+      "skills": [
+        "Project Management",
+        "Cloud Computing"
+      ],
+      "manager": null,
+      "projects": [
+        {
+          "name": "Marketing Automation",
+          "role": "Lead",
+          "status": "On Hold",
+          "hours_logged": 168.7
+        },
+        {
+          "name": "Mobile App Launch",
+          "role": "Contributor",
+          "status": "In Progress",
+          "hours_logged": 171.4
+        },
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Reviewer",
+          "status": "Completed",
+          "hours_logged": 58.2
+        },
+        {
+          "name": "CRM Migration",
+          "role": "Lead",
+          "status": "On Hold",
+          "hours_logged": 57.5
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.8,
+          "comments": "Needs improvement"
+        },
+        {
+          "year": 2023,
+          "score": 4.9,
+          "comments": null
+        },
+        {
+          "year": 2024,
+          "score": 3.2,
+          "comments": "Needs improvement"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1113",
+      "full_name": "Rabia Raza",
+      "department": "Marketing",
+      "email": "rabia.raza113@examplecorp.com",
+      "hire_date": "2024-09-20",
+      "salary": 55226,
+      "is_active": false,
+      "address": {
+        "city": "Lahore",
+        "country": "Pakistan",
+        "postal_code": "16489"
+      },
+      "skills": [
+        "Cloud Computing",
+        "React",
+        "Project Management",
+        "Public Speaking",
+        "UI/UX Design"
+      ],
+      "manager": "Omar Javed",
+      "projects": [
+        {
+          "name": "CRM Migration",
+          "role": "Contributor",
+          "status": "Planned",
+          "hours_logged": 176.9
+        },
+        {
+          "name": "CRM Migration",
+          "role": "Reviewer",
+          "status": "Completed",
+          "hours_logged": 51.6
+        },
+        {
+          "name": "Marketing Automation",
+          "role": "Contributor",
+          "status": "Planned",
+          "hours_logged": 198.2
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 2.0,
+          "comments": null
+        },
+        {
+          "year": 2023,
+          "score": 3.4,
+          "comments": "Needs improvement"
+        },
+        {
+          "year": 2024,
+          "score": 5.0,
+          "comments": "Meets expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1114",
+      "full_name": "Kamran Iqbal",
+      "department": "HR",
+      "email": "kamran.iqbal114@examplecorp.com",
+      "hire_date": "2023-12-14",
+      "salary": 74918,
+      "is_active": true,
+      "address": {
+        "city": "Quetta",
+        "country": "Pakistan",
+        "postal_code": "19436"
+      },
+      "skills": [
+        "Public Speaking",
+        "Excel",
+        "Leadership",
+        "Communication",
+        "Cloud Computing",
+        "Java"
+      ],
+      "manager": "Hina Butt",
+      "projects": [],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.7,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2024,
+          "score": 3.1,
+          "comments": "Meets expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1115",
+      "full_name": "Imran Malik",
+      "department": "Sales",
+      "email": "imran.malik115@examplecorp.com",
+      "hire_date": "2023-05-27",
+      "salary": 56126,
+      "is_active": true,
+      "address": {
+        "city": "Multan",
+        "country": "Pakistan",
+        "postal_code": "59171"
+      },
+      "skills": [
+        "Project Management",
+        "UI/UX Design"
+      ],
+      "manager": "Imran Butt",
+      "projects": [
+        {
+          "name": "Data Pipeline Upgrade",
+          "role": "Reviewer",
+          "status": "In Progress",
+          "hours_logged": 34.7
+        },
+        {
+          "name": "Cloud Migration",
+          "role": "Lead",
+          "status": "Completed",
+          "hours_logged": 67.8
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.0,
+          "comments": "Needs improvement"
+        },
+        {
+          "year": 2023,
+          "score": 5.0,
+          "comments": null
+        }
+      ]
+    },
+    {
+      "employee_id": "E1116",
+      "full_name": "Sana Malik",
+      "department": "Engineering",
+      "email": "sana.malik116@examplecorp.com",
+      "hire_date": "2024-04-24",
+      "salary": 63387,
+      "is_active": true,
+      "address": {
+        "city": "Multan",
+        "country": "Pakistan",
+        "postal_code": "52469"
+      },
+      "skills": [
+        "Excel",
+        "Communication",
+        "Java",
+        "SQL"
+      ],
+      "manager": "Sana Ahmed",
+      "projects": [
+        {
+          "name": "CRM Migration",
+          "role": "Lead",
+          "status": "In Progress",
+          "hours_logged": 76.6
+        },
+        {
+          "name": "Marketing Automation",
+          "role": "Reviewer",
+          "status": "In Progress",
+          "hours_logged": 126.4
+        },
+        {
+          "name": "Marketing Automation",
+          "role": "Contributor",
+          "status": "Planned",
+          "hours_logged": 54.3
+        },
+        {
+          "name": "Marketing Automation",
+          "role": "Lead",
+          "status": "Completed",
+          "hours_logged": 116.3
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.3,
+          "comments": "Needs improvement"
+        },
+        {
+          "year": 2023,
+          "score": 3.1,
+          "comments": "Exceeds expectations"
+        },
+        {
+          "year": 2024,
+          "score": 3.1,
+          "comments": "Exceeds expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1117",
+      "full_name": "Mariam Raza",
+      "department": "Sales",
+      "email": "mariam.raza117@examplecorp.com",
+      "hire_date": "2021-05-25",
+      "salary": 50477,
+      "is_active": true,
+      "address": {
+        "city": "Faisalabad",
+        "country": "Pakistan",
+        "postal_code": "61545"
+      },
+      "skills": [
+        "Data Analysis",
+        "Java",
+        "Public Speaking",
+        "Python",
+        "SQL",
+        "Leadership"
+      ],
+      "manager": "Tariq Raza",
+      "projects": [
+        {
+          "name": "Inventory System",
+          "role": "Contributor",
+          "status": "On Hold",
+          "hours_logged": 51.5
+        },
+        {
+          "name": "Inventory System",
+          "role": "Lead",
+          "status": "In Progress",
+          "hours_logged": 195.6
+        },
+        {
+          "name": "Inventory System",
+          "role": "Contributor",
+          "status": "Completed",
+          "hours_logged": 134.8
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.4,
+          "comments": "Exceeds expectations"
+        },
+        {
+          "year": 2023,
+          "score": 3.5,
+          "comments": "Great initiative shown"
+        },
+        {
+          "year": 2024,
+          "score": 2.0,
+          "comments": "Meets expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1118",
+      "full_name": "Hassan Raza",
+      "department": "Support",
+      "email": "hassan.raza118@examplecorp.com",
+      "hire_date": "2022-02-14",
+      "salary": 133200,
+      "is_active": true,
+      "address": {
+        "city": "Lahore",
+        "country": "Pakistan",
+        "postal_code": "82139"
+      },
+      "skills": [
+        "Networking",
+        "Leadership",
+        "JavaScript",
+        "Data Analysis",
+        "Python"
+      ],
+      "manager": "Bilal Iqbal",
+      "projects": [
+        {
+          "name": "Website Revamp",
+          "role": "Reviewer",
+          "status": "On Hold",
+          "hours_logged": 113.0
+        },
+        {
+          "name": "API Integration",
+          "role": "Contributor",
+          "status": "Completed",
+          "hours_logged": 22.6
+        },
+        {
+          "name": "Mobile App Launch",
+          "role": "Reviewer",
+          "status": "Completed",
+          "hours_logged": 24.8
+        },
+        {
+          "name": "Mobile App Launch",
+          "role": "Lead",
+          "status": "Planned",
+          "hours_logged": 15.7
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.6,
+          "comments": "Exceeds expectations"
+        },
+        {
+          "year": 2024,
+          "score": 3.6,
+          "comments": "Exceeds expectations"
+        }
+      ]
+    },
+    {
+      "employee_id": "E1119",
+      "full_name": "Omar Raza",
+      "department": "Marketing",
+      "email": "omar.raza119@examplecorp.com",
+      "hire_date": "2023-02-18",
+      "salary": 145116,
+      "is_active": true,
+      "address": {
+        "city": "Multan",
+        "country": "Pakistan",
+        "postal_code": "49972"
+      },
+      "skills": [
+        "JavaScript",
+        "Python",
+        "Excel"
+      ],
+      "manager": "Hina Javed",
+      "projects": [
+        {
+          "name": "Customer Portal",
+          "role": "Reviewer",
+          "status": "Planned",
+          "hours_logged": 104.6
+        },
+        {
+          "name": "API Integration",
+          "role": "Reviewer",
+          "status": "Completed",
+          "hours_logged": 64.8
+        }
+      ],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 4.1,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2023,
+          "score": 4.4,
+          "comments": "Meets expectations"
+        },
+        {
+          "year": 2024,
+          "score": 4.1,
+          "comments": null
+        }
+      ]
+    },
+    {
+      "employee_id": "E1120",
+      "full_name": "Sara Iqbal",
+      "department": "Finance",
+      "email": "sara.iqbal120@examplecorp.com",
+      "hire_date": "2021-05-19",
+      "salary": 93599,
+      "is_active": true,
+      "address": {
+        "city": "Quetta",
+        "country": "Pakistan",
+        "postal_code": "14628"
+      },
+      "skills": [
+        "Excel",
+        "Machine Learning",
+        "Java",
+        "Communication"
+      ],
+      "manager": "Hassan Chaudhry",
+      "projects": [],
+      "performance_reviews": [
+        {
+          "year": 2022,
+          "score": 3.2,
+          "comments": null
+        },
+        {
+          "year": 2023,
+          "score": 4.6,
+          "comments": "Exceeds expectations"
+        }
+      ]
+    }
+  ]
+}
