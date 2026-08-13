@@ -1,6 +1,6 @@
 import pandas as pd
 
-data = pd.read_excel("university_records.xlsx")
+data = pd.read_excel("Data-Files/university_records.xlsx")
 
 print("Display the data info:")
 
