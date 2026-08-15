@@ -10,22 +10,22 @@ data = {
 }
 
 # CONVERT DATA INTO DATAFRAME
-# df = pd.DataFrame(data)
-# print(df)
+df = pd.DataFrame(data)
+print(df)
 
 # ASSIGN LABELS
 df_labels = pd.DataFrame(data, index=["Emp 1", "Emp 2", "Emp 3", "Emp 4"])
-# print(df_labels)
+print(df_labels)
 
 # ACCESS BY LABEL
-# print(df_labels.loc['Emp 1'])
+print(df_labels.loc['Emp 1'])
 
 # ACCESS BY INDEX NUMBER
-# print(df_labels.iloc[2])
+print(df_labels.iloc[2])
 
 # ADD A NEW COLUMN
 df_labels['Role'] = ["Cyber Security", "Accountent", "Web Dev", "Ai Engineer"]
-# print(df_labels)
+print(df_labels)
 
 # ADD A NEW ROW
 new_row = pd.DataFrame([{
