@@ -1,5 +1,10 @@
 order_id,customer_name,category,product,price,quantity,order_date,region,payment_method,rating
 1001,Bilal Ahmed,Electronics,Wireless Mouse,223.76,2,2024-08-16,Central,Credit Card,
+1001,Bilal Ahmed,Electronics,Wireless Mouse,223.76,2,2024-08-16,Central,Credit Card,
+1001,Bilal Ahmed,Electronics,Wireless Mouse,223.76,2,2024-08-16,Central,Credit Card,
+1001,Bilal Ahmed,Electronics,Wireless Mouse,223.76,2,2024-08-16,Central,Credit Card,
+1001,Bilal Ahmed,Electronics,Wireless Mouse,223.76,2,2024-08-16,Central,Credit Card,
+
 1002,Rabia Raza,Clothing,Denim Jacket,154.08,1,2024-07-22,South,Cash on Delivery,
 1003,Hassan Iqbal,Clothing,Leather Belt,129.67,3,2024-06-08,North,Credit Card,2.0
 1004,Rabia Ahmed,Sports,Water Bottle,243.1,6,2025-04-15,West,Credit Card,4.0
